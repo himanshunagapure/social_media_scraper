@@ -1,0 +1,289 @@
+# Instagram Scraper Setup Guide
+
+## Prerequisites
+
+Before setting up the Instagram scraper, ensure you have:
+- Python 3.7 or higher installed
+- A valid Instagram account
+- Basic knowledge of Python
+
+## Step 1: Install Required Dependencies
+
+Create a new directory for your project and install the required packages:
+
+```bash
+# Create project directory
+mkdir instagram-scraper
+cd instagram-scraper
+
+# Install required packages
+pip install instagrapi requests
+
+# Optional: Create virtual environment (recommended)
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+pip install instagrapi requests
+```
+
+## Step 2: Download the Scraper Code
+
+Save the provided `instagram_scraper.py` file in your project directory.
+
+## Step 3: Configuration
+
+### Basic Configuration
+
+1. Open `instagram_scraper.py`
+2. In the `main()` function, replace the placeholder credentials:
+
+```python
+USERNAME = "your_instagram_username"
+PASSWORD = "your_instagram_password"
+```
+
+### Advanced Configuration (Optional)
+
+You can customize the scraper behavior:
+
+```python
+# Initialize with custom settings
+scraper = InstagramScraper(
+    username=USERNAME,
+    password=PASSWORD,
+    session_file="session.json",        # Session cache file
+    proxy="http://proxy:port",          # Optional proxy
+    delay_range=(5, 10)                 # Delay between requests (5-10 seconds)
+)
+```
+
+## Step 4: Proxy Setup (Optional but Recommended)
+
+### Free Proxy Options:
+1. **Free Proxy Lists**: Use sites like `free-proxy-list.net`
+2. **Rotating Proxies**: Consider services like ProxyMesh or Bright Data
+
+### Proxy Configuration:
+```python
+# HTTP Proxy
+proxy = "http://username:password@proxy-server:port"
+
+# SOCKS5 Proxy
+proxy = "socks5://username:password@proxy-server:port"
+
+# Initialize with proxy
+scraper = InstagramScraper(
+    username=USERNAME,
+    password=PASSWORD,
+    proxy=proxy
+)
+```
+
+## Step 5: First Run
+
+1. Run the scraper:
+```bash
+python instagram_scraper.py
+```
+
+2. On first run, it will:
+   - Login to Instagram
+   - Save session data to `session.json`
+   - Create log files
+   - Scrape sample data
+
+## Step 6: Understanding the Output
+
+The scraper creates several files:
+
+### Generated Files:
+- `session.json` - Cached login session
+- `instagram_scraper.log` - Detailed logs
+- `user_info.json` - User profile information
+- `user_media.json` - User's posts
+- `hashtag_media.json` - Posts from hashtags
+- `search_users.json` - User search results
+
+### Log Levels:
+- **INFO**: Normal operations
+- **WARNING**: Rate limits, retries
+- **ERROR**: Failed requests, login issues
+
+## Step 7: Usage Examples
+
+### Basic Usage:
+```python
+from instagram_scraper import InstagramScraper
+
+# Initialize
+scraper = InstagramScraper("username", "password")
+
+# Login
+if scraper.login():
+    # Get user info
+    user_info = scraper.get_user_info("target_username")
+    
+    # Get user's posts
+    media = scraper.get_user_media("target_username", count=20)
+    
+    # Get hashtag posts
+    hashtag_posts = scraper.get_hashtag_media("python", count=10)
+    
+    # Search users
+    users = scraper.search_users("developer", count=5)
+    
+    # Save data
+    scraper.save_data(user_info, "user_data.json")
+    
+    # Logout
+    scraper.logout()
+```
+
+### Advanced Usage with Error Handling:
+```python
+try:
+    scraper = InstagramScraper("username", "password")
+    
+    if not scraper.login():
+        print("Login failed!")
+        exit(1)
+    
+    # Your scraping logic here
+    
+except KeyboardInterrupt:
+    print("Scraping stopped by user")
+except Exception as e:
+    print(f"Error: {e}")
+finally:
+    scraper.logout()
+```
+
+## Step 8: Security Best Practices
+
+### 1. Account Security:
+- Use a dedicated Instagram account
+- Enable two-factor authentication
+- Don't use your main personal account
+
+### 2. Rate Limiting:
+- Keep delays between 5-10 seconds
+- Don't exceed 200 requests per hour
+- Monitor for rate limit warnings
+
+### 3. Proxy Rotation:
+```python
+proxies = [
+    "http://proxy1:port",
+    "http://proxy2:port",
+    "http://proxy3:port"
+]
+
+# Rotate proxies periodically
+import random
+proxy = random.choice(proxies)
+scraper = InstagramScraper(username, password, proxy=proxy)
+```
+
+### 4. User Agent Rotation:
+The scraper automatically rotates user agents, but you can add more:
+
+```python
+# Add more user agents to the list in the class
+self.user_agents.extend([
+    "Your custom user agent 1",
+    "Your custom user agent 2"
+])
+```
+
+## Step 9: Troubleshooting
+
+### Common Issues:
+
+1. **Login Failed**:
+   - Check credentials
+   - Try logging in manually on web
+   - Check for security challenges
+
+2. **Rate Limiting**:
+   - Increase delay between requests
+   - Use proxy rotation
+   - Reduce request frequency
+
+3. **Session Expired**:
+   - Delete `session.json` file
+   - Login again
+   - Check for account restrictions
+
+4. **Challenge Required**:
+   - Instagram requires verification
+   - Complete verification manually
+   - Try different proxy/IP
+
+### Debug Mode:
+```python
+import logging
+logging.basicConfig(level=logging.DEBUG)
+```
+
+## Step 10: Ethical Guidelines
+
+### Legal Considerations:
+- Only scrape public data
+- Respect Instagram's Terms of Service
+- Don't scrape private accounts
+- Follow robots.txt guidelines
+
+### Responsible Scraping:
+- Don't overwhelm Instagram's servers
+- Use appropriate delays
+- Respect user privacy
+- Store data securely
+
+### Data Usage:
+- Only collect necessary data
+- Implement data retention policies
+- Secure data storage
+- Respect user privacy rights
+
+## Step 11: Production Deployment
+
+### For Production Use:
+1. **Use Environment Variables**:
+```python
+import os
+USERNAME = os.getenv('INSTAGRAM_USERNAME')
+PASSWORD = os.getenv('INSTAGRAM_PASSWORD')
+```
+
+2. **Implement Monitoring**:
+```python
+# Add health checks
+def health_check():
+    return scraper.logged_in
+```
+
+3. **Database Integration**:
+```python
+# Save to database instead of JSON
+import sqlite3
+# Your database code here
+```
+
+4. **Containerization**:
+```dockerfile
+FROM python:3.9-slim
+WORKDIR /app
+COPY requirements.txt .
+RUN pip install -r requirements.txt
+COPY . .
+CMD ["python", "instagram_scraper.py"]
+```
+
+## Support
+
+For issues or questions:
+1. Check the logs in `instagram_scraper.log`
+2. Review Instagram's API documentation
+3. Check Instagrapi GitHub repository
+4. Ensure compliance with Instagram's terms
+
+Remember: This tool is for educational and research purposes. Always comply with Instagram's Terms of Service and respect user privacy.

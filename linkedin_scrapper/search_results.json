@@ -1,0 +1,3265 @@
+[
+  {
+    "template": "UNIVERSAL",
+    "actorNavigationContext": null,
+    "trackingUrn": "urn:li:job:4268626160",
+    "controlName": null,
+    "interstitialComponent": null,
+    "primaryActions": [],
+    "entityCustomTrackingInfo": null,
+    "title": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "Remote Python Programmer - 17852",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "overflowActions": [],
+    "searchActionType": null,
+    "actorInsights": [],
+    "insightsResolutionResults": [
+      {
+        "jobPostingInsight": null,
+        "relationshipsInsight": null,
+        "serviceProviderRatingInsight": null,
+        "simpleInsight": null,
+        "jobPostingFooterInsight": {
+          "_type": "com.linkedin.voyager.dash.jobs.JobPostingCard",
+          "footerItems": [
+            {
+              "_type": "com.linkedin.voyager.dash.jobs.JobPostingCardFooterItem",
+              "text": null,
+              "type": "LISTED_DATE",
+              "timeAt": 1752771143000,
+              "_recipeType": "com.linkedin.ae028897a212c87f2a4f1a573b71652d"
+            },
+            {
+              "_type": "com.linkedin.voyager.dash.jobs.JobPostingCardFooterItem",
+              "text": {
+                "textDirection": "USER_LOCALE",
+                "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+                "text": "Easy Apply",
+                "attributesV2": [],
+                "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null
+              },
+              "type": "EASY_APPLY_TEXT",
+              "_recipeType": "com.linkedin.ae028897a212c87f2a4f1a573b71652d",
+              "timeAt": null
+            }
+          ],
+          "_recipeType": "com.linkedin.791d0c903911aab58f40e6744715af71",
+          "entityUrn": "urn:li:fsd_jobPostingCard:(4268626160,BLENDED_SEARCH)"
+        },
+        "socialActivityCountsInsight": null,
+        "labelsInsight": null
+      }
+    ],
+    "badgeIcon": null,
+    "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_jobPosting:4268626160,SEARCH_SRP,DEFAULT)",
+    "showAdditionalCluster": false,
+    "ringStatus": null,
+    "primarySubtitle": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "Turing",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "badgeText": null,
+    "trackingId": "xUOUID1OTe+b5WT1jDCNUw==",
+    "actorNavigationUrl": null,
+    "addEntityToSearchHistory": false,
+    "summary": null,
+    "image": {
+      "_type": "com.linkedin.voyager.dash.common.image.ImageViewModel",
+      "attributes": [
+        {
+          "scalingType": null,
+          "_type": "com.linkedin.voyager.dash.common.image.ImageAttribute",
+          "detailData": {
+            "profilePictureWithoutFrame": null,
+            "profilePictureWithRingStatus": null,
+            "companyLogo": null,
+            "icon": null,
+            "systemImage": null,
+            "nonEntityGroupLogo": null,
+            "vectorImage": null,
+            "nonEntityProfessionalEventLogo": null,
+            "profilePicture": null,
+            "imageUrl": null,
+            "professionalEventLogo": null,
+            "nonEntityCompanyLogo": {
+              "_type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo",
+              "company": {
+                "_recipeType": "com.linkedin.2c2374bef3eaba3e079b4a11e2f7bea8",
+                "_type": "com.linkedin.voyager.dash.organization.Company",
+                "entityUrn": "urn:li:fsd_company:18846814"
+              },
+              "_recipeType": "com.linkedin.3be27b5a0eb7edd91e98b14c0290096c",
+              "vectorImage": {
+                "_type": "com.linkedin.common.VectorImage",
+                "attribution": null,
+                "_recipeType": "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9",
+                "digitalmediaAsset": null,
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "_type": "com.linkedin.common.VectorArtifact",
+                    "_recipeType": "com.linkedin.f0f435b4425ee2990eba8f0a4d614944",
+                    "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/D4D0BAQFwqcpc5dU5IA/company-logo_100_100/company-logo_100_100/0/1719851300671/turingcom_logo?e=1755734400&v=beta&t=kJcBMi4z4Vos66lfkyi_1j5wlq-5p9zAVZj3EJUrOEQ",
+                    "expiresAt": 1755734400000,
+                    "height": 100
+                  }
+                ],
+                "rootUrl": ""
+              }
+            },
+            "nonEntitySchoolLogo": null,
+            "groupLogo": null,
+            "schoolLogo": null,
+            "ghostImage": null,
+            "nonEntityProfilePicture": null
+          },
+          "tintColor": null,
+          "_recipeType": "com.linkedin.eb94fbb1518f790c4545aafdf571c64e",
+          "tapTargets": [],
+          "displayAspectRatio": null
+        }
+      ],
+      "actionTarget": null,
+      "_recipeType": "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b",
+      "accessibilityTextAttributes": [],
+      "totalCount": null,
+      "accessibilityText": "Remote Python Programmer - 17852"
+    },
+    "lazyLoadedActions": {
+      "_recipeType": "com.linkedin.92ece182782ae4412e712925cd97f9fe",
+      "_type": "com.linkedin.voyager.dash.search.LazyLoadedActions",
+      "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_jobPosting:4268626160,JOBS,SEARCH_SRP)"
+    },
+    "secondarySubtitle": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "Bengaluru, Karnataka, India (Remote)",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "_type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+    "navigationUrl": "https://www.linkedin.com/jobs/view/4268626160/?refId=a80731b3-5045-4b72-8c31-76952b830428&trackingId=xUOUID1OTe%2Bb5WT1jDCNUw%3D%3D",
+    "entityEmbeddedObject": null,
+    "unreadIndicatorDetails": null,
+    "_recipeType": "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109",
+    "target": null,
+    "actorTrackingUrn": null,
+    "navigationContext": {
+      "_type": "com.linkedin.voyager.dash.search.NavigationContext",
+      "openExternally": false,
+      "_recipeType": "com.linkedin.55ee9afd4182671fe7e271f615659525",
+      "url": "https://www.linkedin.com/jobs/view/4268626160/?refId=a80731b3-5045-4b72-8c31-76952b830428&trackingId=xUOUID1OTe%2Bb5WT1jDCNUw%3D%3D"
+    }
+  },
+  {
+    "template": "UNIVERSAL",
+    "actorNavigationContext": null,
+    "trackingUrn": "urn:li:job:4268617396",
+    "controlName": null,
+    "interstitialComponent": null,
+    "primaryActions": [],
+    "entityCustomTrackingInfo": null,
+    "title": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "Remote Python Developer - 17852",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "overflowActions": [],
+    "searchActionType": null,
+    "actorInsights": [],
+    "insightsResolutionResults": [
+      {
+        "jobPostingInsight": null,
+        "relationshipsInsight": null,
+        "serviceProviderRatingInsight": null,
+        "simpleInsight": null,
+        "jobPostingFooterInsight": {
+          "_type": "com.linkedin.voyager.dash.jobs.JobPostingCard",
+          "footerItems": [
+            {
+              "_type": "com.linkedin.voyager.dash.jobs.JobPostingCardFooterItem",
+              "text": null,
+              "type": "LISTED_DATE",
+              "timeAt": 1752768809000,
+              "_recipeType": "com.linkedin.ae028897a212c87f2a4f1a573b71652d"
+            },
+            {
+              "_type": "com.linkedin.voyager.dash.jobs.JobPostingCardFooterItem",
+              "text": {
+                "textDirection": "USER_LOCALE",
+                "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+                "text": "Easy Apply",
+                "attributesV2": [],
+                "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null
+              },
+              "type": "EASY_APPLY_TEXT",
+              "_recipeType": "com.linkedin.ae028897a212c87f2a4f1a573b71652d",
+              "timeAt": null
+            }
+          ],
+          "_recipeType": "com.linkedin.791d0c903911aab58f40e6744715af71",
+          "entityUrn": "urn:li:fsd_jobPostingCard:(4268617396,BLENDED_SEARCH)"
+        },
+        "socialActivityCountsInsight": null,
+        "labelsInsight": null
+      }
+    ],
+    "badgeIcon": null,
+    "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_jobPosting:4268617396,SEARCH_SRP,DEFAULT)",
+    "showAdditionalCluster": false,
+    "ringStatus": null,
+    "primarySubtitle": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "Turing",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "badgeText": null,
+    "trackingId": "8Y5nGOCMSq+NqU9HKt2Tog==",
+    "actorNavigationUrl": null,
+    "addEntityToSearchHistory": false,
+    "summary": null,
+    "image": {
+      "_type": "com.linkedin.voyager.dash.common.image.ImageViewModel",
+      "attributes": [
+        {
+          "scalingType": null,
+          "_type": "com.linkedin.voyager.dash.common.image.ImageAttribute",
+          "detailData": {
+            "profilePictureWithoutFrame": null,
+            "profilePictureWithRingStatus": null,
+            "companyLogo": null,
+            "icon": null,
+            "systemImage": null,
+            "nonEntityGroupLogo": null,
+            "vectorImage": null,
+            "nonEntityProfessionalEventLogo": null,
+            "profilePicture": null,
+            "imageUrl": null,
+            "professionalEventLogo": null,
+            "nonEntityCompanyLogo": {
+              "_type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo",
+              "company": {
+                "_recipeType": "com.linkedin.2c2374bef3eaba3e079b4a11e2f7bea8",
+                "_type": "com.linkedin.voyager.dash.organization.Company",
+                "entityUrn": "urn:li:fsd_company:18846814"
+              },
+              "_recipeType": "com.linkedin.3be27b5a0eb7edd91e98b14c0290096c",
+              "vectorImage": {
+                "_type": "com.linkedin.common.VectorImage",
+                "attribution": null,
+                "_recipeType": "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9",
+                "digitalmediaAsset": null,
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "_type": "com.linkedin.common.VectorArtifact",
+                    "_recipeType": "com.linkedin.f0f435b4425ee2990eba8f0a4d614944",
+                    "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/D4D0BAQFwqcpc5dU5IA/company-logo_100_100/company-logo_100_100/0/1719851300671/turingcom_logo?e=1755734400&v=beta&t=kJcBMi4z4Vos66lfkyi_1j5wlq-5p9zAVZj3EJUrOEQ",
+                    "expiresAt": 1755734400000,
+                    "height": 100
+                  }
+                ],
+                "rootUrl": ""
+              }
+            },
+            "nonEntitySchoolLogo": null,
+            "groupLogo": null,
+            "schoolLogo": null,
+            "ghostImage": null,
+            "nonEntityProfilePicture": null
+          },
+          "tintColor": null,
+          "_recipeType": "com.linkedin.eb94fbb1518f790c4545aafdf571c64e",
+          "tapTargets": [],
+          "displayAspectRatio": null
+        }
+      ],
+      "actionTarget": null,
+      "_recipeType": "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b",
+      "accessibilityTextAttributes": [],
+      "totalCount": null,
+      "accessibilityText": "Remote Python Developer - 17852"
+    },
+    "lazyLoadedActions": {
+      "_recipeType": "com.linkedin.92ece182782ae4412e712925cd97f9fe",
+      "_type": "com.linkedin.voyager.dash.search.LazyLoadedActions",
+      "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_jobPosting:4268617396,JOBS,SEARCH_SRP)"
+    },
+    "secondarySubtitle": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "Gurugram, Haryana, India (Remote)",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "_type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+    "navigationUrl": "https://www.linkedin.com/jobs/view/4268617396/?refId=a80731b3-5045-4b72-8c31-76952b830428&trackingId=8Y5nGOCMSq%2BNqU9HKt2Tog%3D%3D",
+    "entityEmbeddedObject": null,
+    "unreadIndicatorDetails": null,
+    "_recipeType": "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109",
+    "target": null,
+    "actorTrackingUrn": null,
+    "navigationContext": {
+      "_type": "com.linkedin.voyager.dash.search.NavigationContext",
+      "openExternally": false,
+      "_recipeType": "com.linkedin.55ee9afd4182671fe7e271f615659525",
+      "url": "https://www.linkedin.com/jobs/view/4268617396/?refId=a80731b3-5045-4b72-8c31-76952b830428&trackingId=8Y5nGOCMSq%2BNqU9HKt2Tog%3D%3D"
+    }
+  },
+  {
+    "template": "UNIVERSAL",
+    "actorNavigationContext": null,
+    "trackingUrn": "urn:li:job:4268169265",
+    "controlName": null,
+    "interstitialComponent": null,
+    "primaryActions": [],
+    "entityCustomTrackingInfo": null,
+    "title": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "Django Developer Intern",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "overflowActions": [],
+    "searchActionType": null,
+    "actorInsights": [],
+    "insightsResolutionResults": [
+      {
+        "jobPostingInsight": null,
+        "relationshipsInsight": null,
+        "serviceProviderRatingInsight": null,
+        "simpleInsight": null,
+        "jobPostingFooterInsight": {
+          "_type": "com.linkedin.voyager.dash.jobs.JobPostingCard",
+          "footerItems": [
+            {
+              "_type": "com.linkedin.voyager.dash.jobs.JobPostingCardFooterItem",
+              "text": null,
+              "type": "LISTED_DATE",
+              "timeAt": 1752748792000,
+              "_recipeType": "com.linkedin.ae028897a212c87f2a4f1a573b71652d"
+            }
+          ],
+          "_recipeType": "com.linkedin.791d0c903911aab58f40e6744715af71",
+          "entityUrn": "urn:li:fsd_jobPostingCard:(4268169265,BLENDED_SEARCH)"
+        },
+        "socialActivityCountsInsight": null,
+        "labelsInsight": null
+      }
+    ],
+    "badgeIcon": null,
+    "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_jobPosting:4268169265,SEARCH_SRP,DEFAULT)",
+    "showAdditionalCluster": false,
+    "ringStatus": null,
+    "primarySubtitle": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "Perpex",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "badgeText": null,
+    "trackingId": "JbwMUXEgTMKc7X9o6mQm+g==",
+    "actorNavigationUrl": null,
+    "addEntityToSearchHistory": false,
+    "summary": null,
+    "image": {
+      "_type": "com.linkedin.voyager.dash.common.image.ImageViewModel",
+      "attributes": [
+        {
+          "scalingType": null,
+          "_type": "com.linkedin.voyager.dash.common.image.ImageAttribute",
+          "detailData": {
+            "profilePictureWithoutFrame": null,
+            "profilePictureWithRingStatus": null,
+            "companyLogo": null,
+            "icon": null,
+            "systemImage": null,
+            "nonEntityGroupLogo": null,
+            "vectorImage": null,
+            "nonEntityProfessionalEventLogo": null,
+            "profilePicture": null,
+            "imageUrl": null,
+            "professionalEventLogo": null,
+            "nonEntityCompanyLogo": {
+              "_type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo",
+              "company": {
+                "_recipeType": "com.linkedin.2c2374bef3eaba3e079b4a11e2f7bea8",
+                "_type": "com.linkedin.voyager.dash.organization.Company",
+                "entityUrn": "urn:li:fsd_company:100879990"
+              },
+              "_recipeType": "com.linkedin.3be27b5a0eb7edd91e98b14c0290096c",
+              "vectorImage": {
+                "_type": "com.linkedin.common.VectorImage",
+                "attribution": null,
+                "_recipeType": "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9",
+                "digitalmediaAsset": null,
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "_type": "com.linkedin.common.VectorArtifact",
+                    "_recipeType": "com.linkedin.f0f435b4425ee2990eba8f0a4d614944",
+                    "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/D560BAQGBSdOY5dyBrg/company-logo_100_100/B56ZagoXLiHgAQ-/0/1746451658240?e=1755734400&v=beta&t=V3Jk13bNZ3cGlEJSTjmcEWlIUhOaijWHehKgPM1HS5Y",
+                    "expiresAt": 1755734400000,
+                    "height": 100
+                  }
+                ],
+                "rootUrl": ""
+              }
+            },
+            "nonEntitySchoolLogo": null,
+            "groupLogo": null,
+            "schoolLogo": null,
+            "ghostImage": null,
+            "nonEntityProfilePicture": null
+          },
+          "tintColor": null,
+          "_recipeType": "com.linkedin.eb94fbb1518f790c4545aafdf571c64e",
+          "tapTargets": [],
+          "displayAspectRatio": null
+        }
+      ],
+      "actionTarget": null,
+      "_recipeType": "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b",
+      "accessibilityTextAttributes": [],
+      "totalCount": null,
+      "accessibilityText": "Django Developer Intern"
+    },
+    "lazyLoadedActions": {
+      "_recipeType": "com.linkedin.92ece182782ae4412e712925cd97f9fe",
+      "_type": "com.linkedin.voyager.dash.search.LazyLoadedActions",
+      "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_jobPosting:4268169265,JOBS,SEARCH_SRP)"
+    },
+    "secondarySubtitle": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "Greater Bengaluru Area (Remote)",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "_type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+    "navigationUrl": "https://www.linkedin.com/jobs/view/4268169265/?refId=a80731b3-5045-4b72-8c31-76952b830428&trackingId=JbwMUXEgTMKc7X9o6mQm%2Bg%3D%3D",
+    "entityEmbeddedObject": null,
+    "unreadIndicatorDetails": null,
+    "_recipeType": "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109",
+    "target": null,
+    "actorTrackingUrn": null,
+    "navigationContext": {
+      "_type": "com.linkedin.voyager.dash.search.NavigationContext",
+      "openExternally": false,
+      "_recipeType": "com.linkedin.55ee9afd4182671fe7e271f615659525",
+      "url": "https://www.linkedin.com/jobs/view/4268169265/?refId=a80731b3-5045-4b72-8c31-76952b830428&trackingId=JbwMUXEgTMKc7X9o6mQm%2Bg%3D%3D"
+    }
+  },
+  {
+    "template": "CONTENT_B",
+    "actorNavigationContext": {
+      "_type": "com.linkedin.voyager.dash.search.NavigationContext",
+      "openExternally": false,
+      "_recipeType": "com.linkedin.55ee9afd4182671fe7e271f615659525",
+      "url": "https://www.linkedin.com/in/ACoAADD93C0BWnPC1LNyBEqfsmP7tisffHAPxAE?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADD93C0BWnPC1LNyBEqfsmP7tisffHAPxAE"
+    },
+    "trackingUrn": "urn:li:activity:7351142835590488067",
+    "controlName": null,
+    "interstitialComponent": null,
+    "primaryActions": [],
+    "entityCustomTrackingInfo": null,
+    "title": {
+      "textDirection": "FIRST_STRONG",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "Ritakshi Tak",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": "View Ritakshi Tak’s profile"
+    },
+    "overflowActions": [],
+    "searchActionType": null,
+    "actorInsights": [],
+    "insightsResolutionResults": [
+      {
+        "jobPostingInsight": null,
+        "relationshipsInsight": null,
+        "serviceProviderRatingInsight": null,
+        "simpleInsight": null,
+        "jobPostingFooterInsight": null,
+        "socialActivityCountsInsight": null,
+        "labelsInsight": null
+      }
+    ],
+    "badgeIcon": null,
+    "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:activity:7351142835590488067,SEARCH_SRP,DEFAULT)",
+    "showAdditionalCluster": false,
+    "ringStatus": null,
+    "primarySubtitle": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "HR Generalist | Shaping People-First Workplaces | Talent Acquisition • Employee Engagement • Culture Building",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "badgeText": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "• 3rd+",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "trackingId": "hefAUskUT+Om9Ufxg0UbGw==",
+    "summary": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "🚀 𝐖𝐞’𝐫𝐞 𝐇𝐢𝐫𝐢𝐧𝐠 | 𝐏𝐲𝐭𝐡𝐨𝐧 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 🐍\n\nWe’re looking for a skilled and enthusiastic Python Developer to join our growing team at The Intellify®. If you enjoy building clean, efficient code and working in a collaborative environment — we’d love to hear from you!\n\n𝐋𝐨𝐜𝐚𝐭𝐢𝐨𝐧: Ahmedabad (On-site)\n𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞: 4 Years\n𝐄𝐦𝐩𝐥𝐨𝐲𝐦𝐞𝐧𝐭 𝐓𝐲𝐩𝐞: Full-time\n\n👇 𝐀𝐩𝐩𝐥𝐲 𝐍𝐨𝐰 and 𝐋𝐞𝐭’𝐬 𝐜𝐨𝐧𝐧𝐞𝐜𝐭 if this sounds like you or someone in your network!\n\n#PythonDeveloper #Hiring #AhmedabadJobs #TheIntellify #TechCareers #CareerOpportunity #WeAreHiring\n",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "actorNavigationUrl": "https://www.linkedin.com/in/ACoAADD93C0BWnPC1LNyBEqfsmP7tisffHAPxAE?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADD93C0BWnPC1LNyBEqfsmP7tisffHAPxAE",
+    "addEntityToSearchHistory": false,
+    "image": {
+      "_type": "com.linkedin.voyager.dash.common.image.ImageViewModel",
+      "attributes": [
+        {
+          "scalingType": null,
+          "_type": "com.linkedin.voyager.dash.common.image.ImageAttribute",
+          "detailData": {
+            "profilePictureWithoutFrame": null,
+            "profilePictureWithRingStatus": null,
+            "companyLogo": null,
+            "icon": null,
+            "systemImage": null,
+            "nonEntityGroupLogo": null,
+            "vectorImage": null,
+            "nonEntityProfessionalEventLogo": null,
+            "profilePicture": null,
+            "imageUrl": null,
+            "professionalEventLogo": null,
+            "nonEntityCompanyLogo": null,
+            "nonEntitySchoolLogo": null,
+            "groupLogo": null,
+            "schoolLogo": null,
+            "ghostImage": null,
+            "nonEntityProfilePicture": {
+              "_type": "com.linkedin.voyager.dash.common.image.NonEntityProfilePicture",
+              "ringStatus": null,
+              "_recipeType": "com.linkedin.4b009c1d6ea192a94bda77fb9ace3a7d",
+              "vectorImage": {
+                "_type": "com.linkedin.common.VectorImage",
+                "attribution": null,
+                "_recipeType": "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9",
+                "digitalmediaAsset": null,
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "_type": "com.linkedin.common.VectorArtifact",
+                    "_recipeType": "com.linkedin.f0f435b4425ee2990eba8f0a4d614944",
+                    "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/D4D35AQHZKcTDTBKXiA/profile-framedphoto-shrink_100_100/B4DZZIqAWJG4Ak-/0/1744975693474?e=1753380000&v=beta&t=dmxppODKia4ELI-rPBzFgEcsPBuYVhANw05_Adrp2Eg",
+                    "expiresAt": 1753380000000,
+                    "height": 100
+                  }
+                ],
+                "rootUrl": ""
+              },
+              "profile": {
+                "_recipeType": "com.linkedin.e0372afc4a18480b00ca7e4906904fd7",
+                "_type": "com.linkedin.voyager.dash.identity.profile.Profile",
+                "entityUrn": "urn:li:fsd_profile:ACoAADD93C0BWnPC1LNyBEqfsmP7tisffHAPxAE"
+              }
+            }
+          },
+          "tintColor": null,
+          "_recipeType": "com.linkedin.eb94fbb1518f790c4545aafdf571c64e",
+          "tapTargets": [],
+          "displayAspectRatio": null
+        }
+      ],
+      "actionTarget": null,
+      "_recipeType": "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b",
+      "accessibilityTextAttributes": [],
+      "totalCount": null,
+      "accessibilityText": "Ritakshi Tak"
+    },
+    "lazyLoadedActions": {
+      "_recipeType": "com.linkedin.92ece182782ae4412e712925cd97f9fe",
+      "_type": "com.linkedin.voyager.dash.search.LazyLoadedActions",
+      "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:activity:7351142835590488067,CONTENT,SEARCH_SRP)"
+    },
+    "secondarySubtitle": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "1d •  ",
+      "attributesV2": [
+        {
+          "start": 5,
+          "length": 1,
+          "_type": "com.linkedin.voyager.dash.common.text.TextAttribute",
+          "detailData": {
+            "jobPostingName": null,
+            "hyperlink": null,
+            "profileFamiliarName": null,
+            "color": null,
+            "companyName": null,
+            "icon": "IC_GLOBE_16DP",
+            "epoch": null,
+            "systemImage": null,
+            "textLink": null,
+            "listItemStyle": null,
+            "groupName": null,
+            "hyperlinkOpenExternally": null,
+            "listStyle": null,
+            "profileFullName": null,
+            "stringFieldReference": null,
+            "learningCourseName": null,
+            "profileMention": null,
+            "style": null,
+            "schoolName": null,
+            "hashtag": null
+          },
+          "_recipeType": "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+        }
+      ],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": "1d Visible to everyone"
+    },
+    "_type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+    "entityEmbeddedObject": {
+      "summary": null,
+      "image": null,
+      "headerThumbnail": null,
+      "secondarySubtitle": null,
+      "trackingUrn": null,
+      "_type": "com.linkedin.voyager.dash.search.EntityEmbeddedObject",
+      "primaryActions": [],
+      "showPlayButton": false,
+      "title": {
+        "textDirection": "USER_LOCALE",
+        "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+        "text": "Hiring",
+        "attributesV2": [],
+        "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null
+      },
+      "_recipeType": "com.linkedin.bd93318ac5710b71fba68ebb50fd5bfd",
+      "renderStyle": "DEFAULT_CONTENT",
+      "primarySubtitle": {
+        "textDirection": "USER_LOCALE",
+        "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+        "text": "Python Developer",
+        "attributesV2": [],
+        "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null
+      },
+      "headerTitle": null
+    },
+    "navigationUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7351142835590488067?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7351142835590488067%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29",
+    "unreadIndicatorDetails": null,
+    "_recipeType": "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109",
+    "target": {
+      "updateV2Urn": "urn:li:fs_updateV2:(urn:li:activity:7351142835590488067,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+      "profile": null
+    },
+    "actorTrackingUrn": "urn:li:member:821943341",
+    "navigationContext": {
+      "_type": "com.linkedin.voyager.dash.search.NavigationContext",
+      "openExternally": false,
+      "_recipeType": "com.linkedin.55ee9afd4182671fe7e271f615659525",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7351142835590488067?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7351142835590488067%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29"
+    }
+  },
+  {
+    "template": "CONTENT_B",
+    "actorNavigationContext": {
+      "_type": "com.linkedin.voyager.dash.search.NavigationContext",
+      "openExternally": false,
+      "_recipeType": "com.linkedin.55ee9afd4182671fe7e271f615659525",
+      "url": "https://www.linkedin.com/in/ACoAACn_NIsBpFUuOFucU47KyhzdLqedILhxP2I?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACn_NIsBpFUuOFucU47KyhzdLqedILhxP2I"
+    },
+    "trackingUrn": "urn:li:activity:7350962222421983232",
+    "controlName": null,
+    "interstitialComponent": null,
+    "primaryActions": [],
+    "entityCustomTrackingInfo": null,
+    "title": {
+      "textDirection": "FIRST_STRONG",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "Preetha M",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": "View Preetha M’s profile"
+    },
+    "overflowActions": [],
+    "searchActionType": null,
+    "actorInsights": [],
+    "insightsResolutionResults": [
+      {
+        "jobPostingInsight": null,
+        "relationshipsInsight": null,
+        "serviceProviderRatingInsight": null,
+        "simpleInsight": null,
+        "jobPostingFooterInsight": null,
+        "socialActivityCountsInsight": null,
+        "labelsInsight": null
+      }
+    ],
+    "badgeIcon": null,
+    "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:activity:7350962222421983232,SEARCH_SRP,DEFAULT)",
+    "showAdditionalCluster": false,
+    "ringStatus": null,
+    "primarySubtitle": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "Assistant manager | Talent acquisition",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "badgeText": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "• 3rd+",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "trackingId": "7mQJtDt9Ssu1W+6rk6mj3g==",
+    "summary": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "Hello All,\n\nITC Infotech is hiring Python developers with 3+years of experience in Advanced python and AWS.\nInterested candidates please share your resume and details to Preetha.M@itcinfotech.com",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "actorNavigationUrl": "https://www.linkedin.com/in/ACoAACn_NIsBpFUuOFucU47KyhzdLqedILhxP2I?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACn_NIsBpFUuOFucU47KyhzdLqedILhxP2I",
+    "addEntityToSearchHistory": false,
+    "image": {
+      "_type": "com.linkedin.voyager.dash.common.image.ImageViewModel",
+      "attributes": [
+        {
+          "scalingType": null,
+          "_type": "com.linkedin.voyager.dash.common.image.ImageAttribute",
+          "detailData": {
+            "profilePictureWithoutFrame": null,
+            "profilePictureWithRingStatus": null,
+            "companyLogo": null,
+            "icon": null,
+            "systemImage": null,
+            "nonEntityGroupLogo": null,
+            "vectorImage": null,
+            "nonEntityProfessionalEventLogo": null,
+            "profilePicture": null,
+            "imageUrl": null,
+            "professionalEventLogo": null,
+            "nonEntityCompanyLogo": null,
+            "nonEntitySchoolLogo": null,
+            "groupLogo": null,
+            "schoolLogo": null,
+            "ghostImage": null,
+            "nonEntityProfilePicture": {
+              "_type": "com.linkedin.voyager.dash.common.image.NonEntityProfilePicture",
+              "ringStatus": null,
+              "_recipeType": "com.linkedin.4b009c1d6ea192a94bda77fb9ace3a7d",
+              "vectorImage": {
+                "_type": "com.linkedin.common.VectorImage",
+                "attribution": null,
+                "_recipeType": "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9",
+                "digitalmediaAsset": null,
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "_type": "com.linkedin.common.VectorArtifact",
+                    "_recipeType": "com.linkedin.f0f435b4425ee2990eba8f0a4d614944",
+                    "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/D5603AQFCPIQbjb71fA/profile-displayphoto-scale_100_100/B56Zf47HT9HoAc-/0/1752227937988?e=1758153600&v=beta&t=eTHzelYd6Uh8OPW5zNHymXwc1uV-ig4PSw0YPX9SPQc",
+                    "expiresAt": 1758153600000,
+                    "height": 100
+                  }
+                ],
+                "rootUrl": ""
+              },
+              "profile": {
+                "_recipeType": "com.linkedin.e0372afc4a18480b00ca7e4906904fd7",
+                "_type": "com.linkedin.voyager.dash.identity.profile.Profile",
+                "entityUrn": "urn:li:fsd_profile:ACoAACn_NIsBpFUuOFucU47KyhzdLqedILhxP2I"
+              }
+            }
+          },
+          "tintColor": null,
+          "_recipeType": "com.linkedin.eb94fbb1518f790c4545aafdf571c64e",
+          "tapTargets": [],
+          "displayAspectRatio": null
+        }
+      ],
+      "actionTarget": null,
+      "_recipeType": "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b",
+      "accessibilityTextAttributes": [],
+      "totalCount": null,
+      "accessibilityText": "Preetha M"
+    },
+    "lazyLoadedActions": {
+      "_recipeType": "com.linkedin.92ece182782ae4412e712925cd97f9fe",
+      "_type": "com.linkedin.voyager.dash.search.LazyLoadedActions",
+      "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:activity:7350962222421983232,CONTENT,SEARCH_SRP)"
+    },
+    "secondarySubtitle": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "1d •  ",
+      "attributesV2": [
+        {
+          "start": 5,
+          "length": 1,
+          "_type": "com.linkedin.voyager.dash.common.text.TextAttribute",
+          "detailData": {
+            "jobPostingName": null,
+            "hyperlink": null,
+            "profileFamiliarName": null,
+            "color": null,
+            "companyName": null,
+            "icon": "IC_GLOBE_16DP",
+            "epoch": null,
+            "systemImage": null,
+            "textLink": null,
+            "listItemStyle": null,
+            "groupName": null,
+            "hyperlinkOpenExternally": null,
+            "listStyle": null,
+            "profileFullName": null,
+            "stringFieldReference": null,
+            "learningCourseName": null,
+            "profileMention": null,
+            "style": null,
+            "schoolName": null,
+            "hashtag": null
+          },
+          "_recipeType": "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+        }
+      ],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": "1d Visible to everyone"
+    },
+    "_type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+    "entityEmbeddedObject": {
+      "summary": null,
+      "image": {
+        "_type": "com.linkedin.voyager.dash.common.image.ImageViewModel",
+        "attributes": [
+          {
+            "scalingType": "ASPECT_FILL",
+            "_type": "com.linkedin.voyager.dash.common.image.ImageAttribute",
+            "detailData": {
+              "profilePictureWithoutFrame": null,
+              "profilePictureWithRingStatus": null,
+              "companyLogo": null,
+              "icon": null,
+              "systemImage": null,
+              "nonEntityGroupLogo": null,
+              "vectorImage": null,
+              "nonEntityProfessionalEventLogo": null,
+              "profilePicture": null,
+              "imageUrl": null,
+              "professionalEventLogo": null,
+              "nonEntityCompanyLogo": {
+                "_type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo",
+                "company": {
+                  "_recipeType": "com.linkedin.2c2374bef3eaba3e079b4a11e2f7bea8",
+                  "_type": "com.linkedin.voyager.dash.organization.Company",
+                  "entityUrn": "urn:li:fsd_company:7190"
+                },
+                "_recipeType": "com.linkedin.3be27b5a0eb7edd91e98b14c0290096c",
+                "vectorImage": {
+                  "_type": "com.linkedin.common.VectorImage",
+                  "attribution": null,
+                  "_recipeType": "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9",
+                  "digitalmediaAsset": null,
+                  "artifacts": [
+                    {
+                      "width": 200,
+                      "_type": "com.linkedin.common.VectorArtifact",
+                      "_recipeType": "com.linkedin.f0f435b4425ee2990eba8f0a4d614944",
+                      "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1631308626797?e=1755734400&v=beta&t=2NQLpmfTvRnsYFRZgisbF4q-i8u7eqUGacTfBk3aD0U",
+                      "expiresAt": 1755734400000,
+                      "height": 200
+                    },
+                    {
+                      "width": 100,
+                      "_type": "com.linkedin.common.VectorArtifact",
+                      "_recipeType": "com.linkedin.f0f435b4425ee2990eba8f0a4d614944",
+                      "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1631308626797?e=1755734400&v=beta&t=rJspCbT3JurcXqGvpIyxRnIk5551Qq0jj9VS339qR3M",
+                      "expiresAt": 1755734400000,
+                      "height": 100
+                    },
+                    {
+                      "width": 400,
+                      "_type": "com.linkedin.common.VectorArtifact",
+                      "_recipeType": "com.linkedin.f0f435b4425ee2990eba8f0a4d614944",
+                      "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1631308626797?e=1755734400&v=beta&t=ShrZbZFOUB4JsL9erJTkjp1hubee9s6XSRI1gPpP6G8",
+                      "expiresAt": 1755734400000,
+                      "height": 400
+                    }
+                  ],
+                  "rootUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQHChIp3T3c83w/company-logo_"
+                }
+              },
+              "nonEntitySchoolLogo": null,
+              "groupLogo": null,
+              "schoolLogo": null,
+              "ghostImage": null,
+              "nonEntityProfilePicture": null
+            },
+            "tintColor": null,
+            "_recipeType": "com.linkedin.eb94fbb1518f790c4545aafdf571c64e",
+            "tapTargets": [],
+            "displayAspectRatio": null
+          }
+        ],
+        "actionTarget": null,
+        "_recipeType": "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b",
+        "accessibilityTextAttributes": [],
+        "totalCount": null,
+        "accessibilityText": "Image preview"
+      },
+      "headerThumbnail": null,
+      "secondarySubtitle": null,
+      "trackingUrn": null,
+      "_type": "com.linkedin.voyager.dash.search.EntityEmbeddedObject",
+      "primaryActions": [],
+      "showPlayButton": false,
+      "title": {
+        "textDirection": "FIRST_STRONG",
+        "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+        "text": "Python Developer  ",
+        "attributesV2": [
+          {
+            "start": 17,
+            "length": 1,
+            "_type": "com.linkedin.voyager.dash.common.text.TextAttribute",
+            "detailData": {
+              "jobPostingName": null,
+              "hyperlink": null,
+              "profileFamiliarName": null,
+              "color": null,
+              "companyName": null,
+              "icon": null,
+              "systemImage": "SYS_ICN_VERIFIED_SMALL",
+              "epoch": null,
+              "textLink": null,
+              "listItemStyle": null,
+              "groupName": null,
+              "hyperlinkOpenExternally": null,
+              "listStyle": null,
+              "profileFullName": null,
+              "stringFieldReference": null,
+              "learningCourseName": null,
+              "profileMention": null,
+              "style": null,
+              "schoolName": null,
+              "hashtag": null
+            },
+            "_recipeType": "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+          },
+          {
+            "start": 0,
+            "length": 6,
+            "_type": "com.linkedin.voyager.dash.common.text.TextAttribute",
+            "detailData": {
+              "jobPostingName": null,
+              "hyperlink": null,
+              "profileFamiliarName": null,
+              "color": null,
+              "companyName": null,
+              "icon": null,
+              "epoch": null,
+              "systemImage": null,
+              "textLink": null,
+              "listItemStyle": null,
+              "groupName": null,
+              "hyperlinkOpenExternally": null,
+              "listStyle": null,
+              "profileFullName": null,
+              "stringFieldReference": null,
+              "learningCourseName": null,
+              "profileMention": null,
+              "style": "BOLD",
+              "schoolName": null,
+              "hashtag": null
+            },
+            "_recipeType": "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+          }
+        ],
+        "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null
+      },
+      "_recipeType": "com.linkedin.bd93318ac5710b71fba68ebb50fd5bfd",
+      "renderStyle": "DEFAULT_CONTENT",
+      "primarySubtitle": {
+        "textDirection": "USER_LOCALE",
+        "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+        "text": "Job by ITC Infotech",
+        "attributesV2": [],
+        "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null
+      },
+      "headerTitle": null
+    },
+    "navigationUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7350962222421983232?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7350962222421983232%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29",
+    "unreadIndicatorDetails": null,
+    "_recipeType": "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109",
+    "target": {
+      "updateV2Urn": "urn:li:fs_updateV2:(urn:li:activity:7350962222421983232,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+      "profile": null
+    },
+    "actorTrackingUrn": "urn:li:member:704590987",
+    "navigationContext": {
+      "_type": "com.linkedin.voyager.dash.search.NavigationContext",
+      "openExternally": false,
+      "_recipeType": "com.linkedin.55ee9afd4182671fe7e271f615659525",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7350962222421983232?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7350962222421983232%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29"
+    }
+  },
+  {
+    "template": "CONTENT_B",
+    "actorNavigationContext": {
+      "_type": "com.linkedin.voyager.dash.search.NavigationContext",
+      "openExternally": false,
+      "_recipeType": "com.linkedin.55ee9afd4182671fe7e271f615659525",
+      "url": "https://www.linkedin.com/in/ACoAAAmUIjAB9Jm4FujZixtbSm_Vv8ABXhv9QIw?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAmUIjAB9Jm4FujZixtbSm_Vv8ABXhv9QIw"
+    },
+    "trackingUrn": "urn:li:activity:7351190471412473856",
+    "controlName": null,
+    "interstitialComponent": null,
+    "primaryActions": [],
+    "entityCustomTrackingInfo": null,
+    "title": {
+      "textDirection": "FIRST_STRONG",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "Anaswar V M",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": "View Anaswar V M’s profile"
+    },
+    "overflowActions": [],
+    "searchActionType": null,
+    "actorInsights": [],
+    "insightsResolutionResults": [
+      {
+        "jobPostingInsight": null,
+        "relationshipsInsight": null,
+        "serviceProviderRatingInsight": null,
+        "simpleInsight": null,
+        "jobPostingFooterInsight": null,
+        "socialActivityCountsInsight": null,
+        "labelsInsight": null
+      }
+    ],
+    "badgeIcon": null,
+    "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:activity:7351190471412473856,SEARCH_SRP,DEFAULT)",
+    "showAdditionalCluster": false,
+    "ringStatus": null,
+    "primarySubtitle": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "Senior Talent Acquisition Specialist at Cardinal Health || AIRS®CIR",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "badgeText": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "• 3rd+",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "trackingId": "PPHRPOLDQSOYhbGk3uDzkA==",
+    "summary": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "We're currently hiring a Software Developer (Python). Do you know someone who might be interested?\n\n#Python #SQL #FastApi #Flask \n\nFeel free to reach out to me at anaswarmohan.vm@cardinalhealth.com\n\nPoulami Sarkar Akancha S. Daniel Anand Swati Sharma Shweta Mishra Sreeda Madathil I’m #hiring. Know anyone who might be interested?",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "actorNavigationUrl": "https://www.linkedin.com/in/ACoAAAmUIjAB9Jm4FujZixtbSm_Vv8ABXhv9QIw?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAmUIjAB9Jm4FujZixtbSm_Vv8ABXhv9QIw",
+    "addEntityToSearchHistory": false,
+    "image": {
+      "_type": "com.linkedin.voyager.dash.common.image.ImageViewModel",
+      "attributes": [
+        {
+          "scalingType": null,
+          "_type": "com.linkedin.voyager.dash.common.image.ImageAttribute",
+          "detailData": {
+            "profilePictureWithoutFrame": null,
+            "profilePictureWithRingStatus": null,
+            "companyLogo": null,
+            "icon": null,
+            "systemImage": null,
+            "nonEntityGroupLogo": null,
+            "vectorImage": null,
+            "nonEntityProfessionalEventLogo": null,
+            "profilePicture": null,
+            "imageUrl": null,
+            "professionalEventLogo": null,
+            "nonEntityCompanyLogo": null,
+            "nonEntitySchoolLogo": null,
+            "groupLogo": null,
+            "schoolLogo": null,
+            "ghostImage": null,
+            "nonEntityProfilePicture": {
+              "_type": "com.linkedin.voyager.dash.common.image.NonEntityProfilePicture",
+              "ringStatus": null,
+              "_recipeType": "com.linkedin.4b009c1d6ea192a94bda77fb9ace3a7d",
+              "vectorImage": {
+                "_type": "com.linkedin.common.VectorImage",
+                "attribution": null,
+                "_recipeType": "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9",
+                "digitalmediaAsset": null,
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "_type": "com.linkedin.common.VectorArtifact",
+                    "_recipeType": "com.linkedin.f0f435b4425ee2990eba8f0a4d614944",
+                    "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/D5635AQGIf6GQmwDJbw/profile-framedphoto-shrink_100_100/B56ZavkURRGsAk-/0/1746702255772?e=1753380000&v=beta&t=LC9sg9cxMmkQrkKMe2Wt2HR9YaI2C0RN4e2Ga3SVVo8",
+                    "expiresAt": 1753380000000,
+                    "height": 100
+                  }
+                ],
+                "rootUrl": ""
+              },
+              "profile": {
+                "_recipeType": "com.linkedin.e0372afc4a18480b00ca7e4906904fd7",
+                "_type": "com.linkedin.voyager.dash.identity.profile.Profile",
+                "entityUrn": "urn:li:fsd_profile:ACoAAAmUIjAB9Jm4FujZixtbSm_Vv8ABXhv9QIw"
+              }
+            }
+          },
+          "tintColor": null,
+          "_recipeType": "com.linkedin.eb94fbb1518f790c4545aafdf571c64e",
+          "tapTargets": [],
+          "displayAspectRatio": null
+        }
+      ],
+      "actionTarget": null,
+      "_recipeType": "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b",
+      "accessibilityTextAttributes": [],
+      "totalCount": null,
+      "accessibilityText": "Anaswar V M"
+    },
+    "lazyLoadedActions": {
+      "_recipeType": "com.linkedin.92ece182782ae4412e712925cd97f9fe",
+      "_type": "com.linkedin.voyager.dash.search.LazyLoadedActions",
+      "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:activity:7351190471412473856,CONTENT,SEARCH_SRP)"
+    },
+    "secondarySubtitle": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "1d •  ",
+      "attributesV2": [
+        {
+          "start": 5,
+          "length": 1,
+          "_type": "com.linkedin.voyager.dash.common.text.TextAttribute",
+          "detailData": {
+            "jobPostingName": null,
+            "hyperlink": null,
+            "profileFamiliarName": null,
+            "color": null,
+            "companyName": null,
+            "icon": "IC_GLOBE_16DP",
+            "epoch": null,
+            "systemImage": null,
+            "textLink": null,
+            "listItemStyle": null,
+            "groupName": null,
+            "hyperlinkOpenExternally": null,
+            "listStyle": null,
+            "profileFullName": null,
+            "stringFieldReference": null,
+            "learningCourseName": null,
+            "profileMention": null,
+            "style": null,
+            "schoolName": null,
+            "hashtag": null
+          },
+          "_recipeType": "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+        }
+      ],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": "1d Visible to everyone"
+    },
+    "_type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+    "entityEmbeddedObject": {
+      "summary": null,
+      "image": {
+        "_type": "com.linkedin.voyager.dash.common.image.ImageViewModel",
+        "attributes": [
+          {
+            "scalingType": "ASPECT_FILL",
+            "_type": "com.linkedin.voyager.dash.common.image.ImageAttribute",
+            "detailData": {
+              "profilePictureWithoutFrame": null,
+              "profilePictureWithRingStatus": null,
+              "companyLogo": null,
+              "icon": null,
+              "systemImage": null,
+              "nonEntityGroupLogo": null,
+              "vectorImage": null,
+              "nonEntityProfessionalEventLogo": null,
+              "profilePicture": null,
+              "imageUrl": null,
+              "professionalEventLogo": null,
+              "nonEntityCompanyLogo": {
+                "_type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo",
+                "company": {
+                  "_recipeType": "com.linkedin.2c2374bef3eaba3e079b4a11e2f7bea8",
+                  "_type": "com.linkedin.voyager.dash.organization.Company",
+                  "entityUrn": "urn:li:fsd_company:2162"
+                },
+                "_recipeType": "com.linkedin.3be27b5a0eb7edd91e98b14c0290096c",
+                "vectorImage": {
+                  "_type": "com.linkedin.common.VectorImage",
+                  "attribution": null,
+                  "_recipeType": "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9",
+                  "digitalmediaAsset": null,
+                  "artifacts": [
+                    {
+                      "width": 200,
+                      "_type": "com.linkedin.common.VectorArtifact",
+                      "_recipeType": "com.linkedin.f0f435b4425ee2990eba8f0a4d614944",
+                      "fileIdentifyingUrlPathSegment": "200_200/company-logo_200_200/0/1719772831840/cardinal_health_logo?e=1755734400&v=beta&t=gO7gvk4B1G8wz9OS1_FGJSmzb3PZAH94hHVcYJiucO8",
+                      "expiresAt": 1755734400000,
+                      "height": 200
+                    },
+                    {
+                      "width": 100,
+                      "_type": "com.linkedin.common.VectorArtifact",
+                      "_recipeType": "com.linkedin.f0f435b4425ee2990eba8f0a4d614944",
+                      "fileIdentifyingUrlPathSegment": "100_100/company-logo_100_100/0/1719772831840/cardinal_health_logo?e=1755734400&v=beta&t=snOPpICfndlRIMXCf8EAsNUJSM6Z77xAT_NDevSKXRg",
+                      "expiresAt": 1755734400000,
+                      "height": 100
+                    },
+                    {
+                      "width": 400,
+                      "_type": "com.linkedin.common.VectorArtifact",
+                      "_recipeType": "com.linkedin.f0f435b4425ee2990eba8f0a4d614944",
+                      "fileIdentifyingUrlPathSegment": "400_400/company-logo_400_400/0/1719772831840/cardinal_health_logo?e=1755734400&v=beta&t=6khcuXSVcgZsNXUaczIWbG9lIkesNxnk-e3YylEUY1E",
+                      "expiresAt": 1755734400000,
+                      "height": 400
+                    }
+                  ],
+                  "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0BAQHseggiBegb7A/company-logo_"
+                }
+              },
+              "nonEntitySchoolLogo": null,
+              "groupLogo": null,
+              "schoolLogo": null,
+              "ghostImage": null,
+              "nonEntityProfilePicture": null
+            },
+            "tintColor": null,
+            "_recipeType": "com.linkedin.eb94fbb1518f790c4545aafdf571c64e",
+            "tapTargets": [],
+            "displayAspectRatio": null
+          }
+        ],
+        "actionTarget": null,
+        "_recipeType": "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b",
+        "accessibilityTextAttributes": [],
+        "totalCount": null,
+        "accessibilityText": "Image preview"
+      },
+      "headerThumbnail": null,
+      "secondarySubtitle": null,
+      "trackingUrn": null,
+      "_type": "com.linkedin.voyager.dash.search.EntityEmbeddedObject",
+      "primaryActions": [],
+      "showPlayButton": false,
+      "title": {
+        "textDirection": "FIRST_STRONG",
+        "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+        "text": "Software Developer  ",
+        "attributesV2": [
+          {
+            "start": 19,
+            "length": 1,
+            "_type": "com.linkedin.voyager.dash.common.text.TextAttribute",
+            "detailData": {
+              "jobPostingName": null,
+              "hyperlink": null,
+              "profileFamiliarName": null,
+              "color": null,
+              "companyName": null,
+              "icon": null,
+              "systemImage": "SYS_ICN_VERIFIED_SMALL",
+              "epoch": null,
+              "textLink": null,
+              "listItemStyle": null,
+              "groupName": null,
+              "hyperlinkOpenExternally": null,
+              "listStyle": null,
+              "profileFullName": null,
+              "stringFieldReference": null,
+              "learningCourseName": null,
+              "profileMention": null,
+              "style": null,
+              "schoolName": null,
+              "hashtag": null
+            },
+            "_recipeType": "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+          }
+        ],
+        "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null
+      },
+      "_recipeType": "com.linkedin.bd93318ac5710b71fba68ebb50fd5bfd",
+      "renderStyle": "DEFAULT_CONTENT",
+      "primarySubtitle": {
+        "textDirection": "USER_LOCALE",
+        "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+        "text": "Job by Cardinal Health",
+        "attributesV2": [],
+        "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+        "accessibilityTextAttributesV2": [],
+        "accessibilityText": null
+      },
+      "headerTitle": null
+    },
+    "navigationUrl": "https://www.linkedin.com/feed/update/urn:li:activity:7351190471412473856?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7351190471412473856%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29",
+    "unreadIndicatorDetails": null,
+    "_recipeType": "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109",
+    "target": {
+      "updateV2Urn": "urn:li:fs_updateV2:(urn:li:activity:7351190471412473856,BLENDED_SEARCH_FEED,EMPTY,DEFAULT,false)",
+      "profile": null
+    },
+    "actorTrackingUrn": "urn:li:member:160703024",
+    "navigationContext": {
+      "_type": "com.linkedin.voyager.dash.search.NavigationContext",
+      "openExternally": false,
+      "_recipeType": "com.linkedin.55ee9afd4182671fe7e271f615659525",
+      "url": "https://www.linkedin.com/feed/update/urn:li:activity:7351190471412473856?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7351190471412473856%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29"
+    }
+  },
+  {
+    "template": "UNIVERSAL",
+    "actorNavigationContext": null,
+    "trackingUrn": "urn:li:lyndaCourse:3980343",
+    "controlName": null,
+    "interstitialComponent": null,
+    "primaryActions": [],
+    "entityCustomTrackingInfo": null,
+    "title": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "Learning Python",
+      "attributesV2": [
+        {
+          "start": 0,
+          "length": 15,
+          "_type": "com.linkedin.voyager.dash.common.text.TextAttribute",
+          "detailData": {
+            "jobPostingName": null,
+            "hyperlink": null,
+            "profileFamiliarName": null,
+            "color": null,
+            "companyName": null,
+            "icon": null,
+            "epoch": null,
+            "systemImage": null,
+            "textLink": null,
+            "listItemStyle": null,
+            "groupName": null,
+            "hyperlinkOpenExternally": null,
+            "listStyle": null,
+            "profileFullName": null,
+            "stringFieldReference": null,
+            "learningCourseName": null,
+            "profileMention": null,
+            "style": "BOLD",
+            "schoolName": null,
+            "hashtag": null
+          },
+          "_recipeType": "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+        }
+      ],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "overflowActions": [],
+    "searchActionType": null,
+    "actorInsights": [],
+    "insightsResolutionResults": [],
+    "badgeIcon": null,
+    "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:lyndaCourse:3980343,SEARCH_SRP,DEFAULT)",
+    "showAdditionalCluster": false,
+    "ringStatus": null,
+    "primarySubtitle": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "Course • 3h 41m",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "badgeText": null,
+    "trackingId": "+ntGX46JSzGj/cz8qIDsHA==",
+    "actorNavigationUrl": null,
+    "addEntityToSearchHistory": false,
+    "summary": null,
+    "image": {
+      "_type": "com.linkedin.voyager.dash.common.image.ImageViewModel",
+      "attributes": [
+        {
+          "scalingType": null,
+          "_type": "com.linkedin.voyager.dash.common.image.ImageAttribute",
+          "detailData": {
+            "profilePictureWithoutFrame": null,
+            "profilePictureWithRingStatus": null,
+            "companyLogo": null,
+            "icon": null,
+            "systemImage": null,
+            "nonEntityGroupLogo": null,
+            "vectorImage": {
+              "_type": "com.linkedin.common.VectorImage",
+              "attribution": null,
+              "_recipeType": "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9",
+              "digitalmediaAsset": "urn:li:digitalmediaAsset:D4E0DAQECotgjIKCbrw",
+              "artifacts": [
+                {
+                  "width": 432,
+                  "_type": "com.linkedin.common.VectorArtifact",
+                  "_recipeType": "com.linkedin.f0f435b4425ee2990eba8f0a4d614944",
+                  "fileIdentifyingUrlPathSegment": "240_432/B4EZT7PgtEGwAY-/0/1739381935225?e=1753380000&v=beta&t=Z8jzfoiZv2bOHhl72S7DahU7Hzp-FNQErgmg2nx1llc",
+                  "expiresAt": 1753380000000,
+                  "height": 240
+                },
+                {
+                  "width": 256,
+                  "_type": "com.linkedin.common.VectorArtifact",
+                  "_recipeType": "com.linkedin.f0f435b4425ee2990eba8f0a4d614944",
+                  "fileIdentifyingUrlPathSegment": "144_256/B4EZT7PgtEGwAU-/0/1739381935225?e=1753380000&v=beta&t=2LPoHFcgJJJ3kW-wh6V37cpUtE-fmIBxCUKEPgSFJr4",
+                  "expiresAt": 1753380000000,
+                  "height": 144
+                },
+                {
+                  "width": 1200,
+                  "_type": "com.linkedin.common.VectorArtifact",
+                  "_recipeType": "com.linkedin.f0f435b4425ee2990eba8f0a4d614944",
+                  "fileIdentifyingUrlPathSegment": "675_1200/B4EZT7PgtEGwAc-/0/1739381935225?e=1753380000&v=beta&t=QJTxfxOhkNmprLx42Bu_-Dn1ZlwbYu8pE4yqikrljCY",
+                  "expiresAt": 1753380000000,
+                  "height": 675
+                },
+                {
+                  "width": 512,
+                  "_type": "com.linkedin.common.VectorArtifact",
+                  "_recipeType": "com.linkedin.f0f435b4425ee2990eba8f0a4d614944",
+                  "fileIdentifyingUrlPathSegment": "288_512/B4EZT7PgtEGwAQ-/0/1739381935670?e=1753380000&v=beta&t=eoCrA3tYcO--eonj4ful4dVK1FHk7MzA-LXAX5bUuV0",
+                  "expiresAt": 1753380000000,
+                  "height": 288
+                },
+                {
+                  "width": 100,
+                  "_type": "com.linkedin.common.VectorArtifact",
+                  "_recipeType": "com.linkedin.f0f435b4425ee2990eba8f0a4d614944",
+                  "fileIdentifyingUrlPathSegment": "60_100/B4EZT7PgtEGwAM-/0/1739381935670?e=1753380000&v=beta&t=kdr9-A9t-Ule_hSmkFAJ8Mn3RLY4077qNBr5_pppYZ8",
+                  "expiresAt": 1753380000000,
+                  "height": 60
+                }
+              ],
+              "rootUrl": "https://media.licdn.com/dms/image/v2/D4E0DAQECotgjIKCbrw/learning-public-crop_"
+            },
+            "nonEntityProfessionalEventLogo": null,
+            "profilePicture": null,
+            "imageUrl": null,
+            "professionalEventLogo": null,
+            "nonEntityCompanyLogo": null,
+            "nonEntitySchoolLogo": null,
+            "groupLogo": null,
+            "schoolLogo": null,
+            "ghostImage": null,
+            "nonEntityProfilePicture": null
+          },
+          "tintColor": null,
+          "_recipeType": "com.linkedin.eb94fbb1518f790c4545aafdf571c64e",
+          "tapTargets": [],
+          "displayAspectRatio": 0.56
+        }
+      ],
+      "actionTarget": null,
+      "_recipeType": "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b",
+      "accessibilityTextAttributes": [],
+      "totalCount": null,
+      "accessibilityText": "Learning Python"
+    },
+    "lazyLoadedActions": {
+      "_recipeType": "com.linkedin.92ece182782ae4412e712925cd97f9fe",
+      "_type": "com.linkedin.voyager.dash.search.LazyLoadedActions",
+      "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:lyndaCourse:3980343,LEARNING,SEARCH_SRP)"
+    },
+    "secondarySubtitle": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "By: Joe Marini • Released Feb 21, 2025",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "_type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+    "navigationUrl": "https://www.linkedin.com/learning/learning-python-25309312?courseClaim=AQE-a97kc8q0iAAAAZgZZvs36GCp1tM5IVzEFF7JXBMmc7nbL_lpjC7bTVspVEe8J4YR-cKyv6MrBKW4O5eyybGqm-hxNnOaIWGrXjGkRKMzgrgtKLvkK3j7htFQMHbkQSwy83w1p3xolI7su9kcDkg3PPT4L8yz5OwQOoYtAXRIKJPtPaOri6zqb0azaAPZb1HHAFtJmaIFYG9xPoGDXfeik500be8LXFdC-4M5e3ApiJNKB_qVVg4y9rcuOAzt3zqMbSxm0Mz_Pv5NXNi09aO5tNSt1r6JVMbmW46pyUkDibh2efu47cUqMsMPh30UY9TpuDbMCrTZ-4ogICtZj8yizmonX1DXJHdrArP4iqEGn6-GDdP8EkiWPWpY4jgUEnce8cULdvyTyFGKcpqlzuMtmZC8zd-hfdCzev658QJlMzDlcjlu-JAzt9noC1laop6KgD9pKQzoD_4mGPGmH-ULrbZajqgSeYwpitVZAgKSctLll3XRx_Nf81liKqwWRDWQLxH7HbZQcXXIhIHThwWkU8yHncCdefh-mBYrhaDFzpcsZNryCXGPvrlzulF4XKGUxDS9KzN6mfW8H-VlvNZCPPJhowYwHcg0BKk7ucZ5l97ALXtDJHGvXvvh6ModIjGe0OyXoxtiQG2at_kGGSRzGvzKMZWpJs6A-p_sGIZL3MDtd5jehAb-ug3qAR4JBsBvnO5mTh8yOJ1fMaxrkz6ZjOJRuOUohPN4_0iG0Z4zwQffNC-6cWYnZRimIDW4jKASJBnZ_QunbHDMnwBeGRZxc1Pe6aBxuoZ5EdqrL_dOUmr_6rzJ-DNWLu7aDkld53x-ASl7iD9jS8krlLcWFayfqIfhv1lbYUd24qKp_IJrP-_hUdjzyRpphoOMllQ93tpOsU1aHex9vz8mzeiWztaizuusTr0Bvvv0nKJrcQpONgLjgAUvJFCa3Sj7xsEQ8q2wf8TG-CZUUr0GEYTKa6Exd5l9staU6A3FXNq0rWQxK1RrPKMIFgc3LGzoy5f58Af6WCJKG5BL5qngNyWpj16Kri9Bq99D4_GbSC6xrzWrEhK-zggJldB2CZ2l2jpOsxdty41Z05injrvs8sSquNashqiRcMz1BZzIGw4IBVRJDfmqPfnYZM_IoayCX04iPo6DwRNIhIahlso1aXo&trk=search-cluster_flagship_learning",
+    "entityEmbeddedObject": null,
+    "unreadIndicatorDetails": null,
+    "_recipeType": "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109",
+    "target": null,
+    "actorTrackingUrn": null,
+    "navigationContext": {
+      "_type": "com.linkedin.voyager.dash.search.NavigationContext",
+      "openExternally": true,
+      "_recipeType": "com.linkedin.55ee9afd4182671fe7e271f615659525",
+      "url": "https://www.linkedin.com/learning/learning-python-25309312?courseClaim=AQGjSXJLIZmPuQAAAZgZZvs4wPm-FPLYLHvQh7CrZ6oJr8menxG7LFyxOcRZqgFNKRFXu_YROwQkr7DRCybg9qSkisI9pcdTVvxl4T3R-ak5FsgDDMxSpHXhezuRPPwHliVyvznoELMQZX67QDsd-fzkIqKer1QNaUm0jXIVYW0aqZgNsGwy2SG7dCFJGlIJL-vkdvNWHvnetzabhxTKDXq3oovKM3ybriLouSZn68A0Y_uOwbeCUd4fyWR7RwhL529aIHAiMWm9yIuIQ-bjULEQNzZZ9ao3EgcohtUYhGXHXeNCOkuZfqUsgCYxc0OnyYLBWMqtXU-_eu2X5vyMcXN3ffLv4JQO7nExKIgipf3geaqVm_jbm0A6VhGqZj1y-5aqpbLBV0APwZyW2IpcUkW9a7xZKYDAOYnwaXZaeFN0bk7GSjRkdGG_AyRlK_RUwve8XQBHwpiQFK6PGpEHrJqGhhXM9G3nLr2eIc_P86r8dr_J84uMAlXU5MNZ0xb4gfAwXq2puEgJnirnNCEJuOGcKUhzyfm4Y-yj5u7d4lVHWPtMHhYwytEC5SpOgblfsXUH8LtSBH8Yu-FXWf1JOYFr8i0H1XjJ_h_c9RcsiNqBk8HyWBhtjH6o3iQBdu9GhfvV2xuZFI3uqzb7dDbu36FgFNfOcxse7Cz8vKWchnlm_K9WcCA48gqzli1sN3n_tJ-AzzvqboJjqSjSd8WwGDzfaXN1LON7Jxwx8x1SLguJ2mCa2p78vW4728eh5dkgdqpO1T9Dm3llVEGdD8BolkZc6_4ZFN_JT1IvuwgH4wXdtCzRW0GeQ5xiAa8KVqRUNwZreKT80xCruF10C4mM3lxh4lSrTNMRU1_BXRsS1fc5qWNWxODYunW9FOdIftL9G7KYqM9Q-cb-im02IadmRAhhSAbqZvwIMr38tYGLLqTPqopkfSR8shfCFjbw6RxHRBDWcCw7pLu4zM9pj4TwcpG_lLCfunQ7nEQ4hH0cvbixUS1_QkzB-QeUouLf-TVyvRvWhZlMZRZbXcF0ICH9eS6nETMBLvgfDYHmbuGYdIr4iDnu3Jksg938pO5pbldidyShgBijfDOlVJAEenMfQzGjj8JqFxiGW-pXGMRdesC88GgKFK8Ud67j9zbgrnwitKCSRRSiQn_wAIn33Dk&trk=search-cluster_flagship_learning"
+    }
+  },
+  {
+    "template": "UNIVERSAL",
+    "actorNavigationContext": null,
+    "trackingUrn": "urn:li:lyndaCourse:4314028",
+    "controlName": null,
+    "interstitialComponent": null,
+    "primaryActions": [],
+    "entityCustomTrackingInfo": null,
+    "title": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "Python Essential Training",
+      "attributesV2": [
+        {
+          "start": 0,
+          "length": 25,
+          "_type": "com.linkedin.voyager.dash.common.text.TextAttribute",
+          "detailData": {
+            "jobPostingName": null,
+            "hyperlink": null,
+            "profileFamiliarName": null,
+            "color": null,
+            "companyName": null,
+            "icon": null,
+            "epoch": null,
+            "systemImage": null,
+            "textLink": null,
+            "listItemStyle": null,
+            "groupName": null,
+            "hyperlinkOpenExternally": null,
+            "listStyle": null,
+            "profileFullName": null,
+            "stringFieldReference": null,
+            "learningCourseName": null,
+            "profileMention": null,
+            "style": "BOLD",
+            "schoolName": null,
+            "hashtag": null
+          },
+          "_recipeType": "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+        }
+      ],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "overflowActions": [],
+    "searchActionType": null,
+    "actorInsights": [],
+    "insightsResolutionResults": [],
+    "badgeIcon": null,
+    "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:lyndaCourse:4314028,SEARCH_SRP,DEFAULT)",
+    "showAdditionalCluster": false,
+    "ringStatus": null,
+    "primarySubtitle": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "Course • 4h 22m",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "badgeText": null,
+    "trackingId": "iWnJ1hqMRfyhAH4ncjfCIQ==",
+    "actorNavigationUrl": null,
+    "addEntityToSearchHistory": false,
+    "summary": null,
+    "image": {
+      "_type": "com.linkedin.voyager.dash.common.image.ImageViewModel",
+      "attributes": [
+        {
+          "scalingType": null,
+          "_type": "com.linkedin.voyager.dash.common.image.ImageAttribute",
+          "detailData": {
+            "profilePictureWithoutFrame": null,
+            "profilePictureWithRingStatus": null,
+            "companyLogo": null,
+            "icon": null,
+            "systemImage": null,
+            "nonEntityGroupLogo": null,
+            "vectorImage": {
+              "_type": "com.linkedin.common.VectorImage",
+              "attribution": null,
+              "_recipeType": "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9",
+              "digitalmediaAsset": "urn:li:digitalmediaAsset:D560DAQFd_zI7amVPuw",
+              "artifacts": [
+                {
+                  "width": 256,
+                  "_type": "com.linkedin.common.VectorArtifact",
+                  "_recipeType": "com.linkedin.f0f435b4425ee2990eba8f0a4d614944",
+                  "fileIdentifyingUrlPathSegment": "144_256/learning-public-crop_144_256/0/1711389402799?e=1753380000&v=beta&t=VfBe5vO0VIKa7n9-N12t_bJ9v9wK-W7bgFU0htVPa-s",
+                  "expiresAt": 1753380000000,
+                  "height": 144
+                },
+                {
+                  "width": 512,
+                  "_type": "com.linkedin.common.VectorArtifact",
+                  "_recipeType": "com.linkedin.f0f435b4425ee2990eba8f0a4d614944",
+                  "fileIdentifyingUrlPathSegment": "288_512/learning-public-crop_288_512/0/1711389402799?e=1753380000&v=beta&t=V8_MNKQ35QuJaJ4vGq97ehgfq-h0enH_Bp0INt0PXUg",
+                  "expiresAt": 1753380000000,
+                  "height": 288
+                },
+                {
+                  "width": 100,
+                  "_type": "com.linkedin.common.VectorArtifact",
+                  "_recipeType": "com.linkedin.f0f435b4425ee2990eba8f0a4d614944",
+                  "fileIdentifyingUrlPathSegment": "60_100/learning-public-crop_60_100/0/1711389402799?e=1753380000&v=beta&t=os_7tMMAn5mk8aFFXJeA9RvB4DUI7hnqabdB6aJGdr8",
+                  "expiresAt": 1753380000000,
+                  "height": 60
+                },
+                {
+                  "width": 432,
+                  "_type": "com.linkedin.common.VectorArtifact",
+                  "_recipeType": "com.linkedin.f0f435b4425ee2990eba8f0a4d614944",
+                  "fileIdentifyingUrlPathSegment": "240_432/learning-public-crop_240_432/0/1711389402799?e=1753380000&v=beta&t=2tWFI222DECFPu9IRQbjehU9JsYkp6rzcndTO_ftWik",
+                  "expiresAt": 1753380000000,
+                  "height": 240
+                },
+                {
+                  "width": 1200,
+                  "_type": "com.linkedin.common.VectorArtifact",
+                  "_recipeType": "com.linkedin.f0f435b4425ee2990eba8f0a4d614944",
+                  "fileIdentifyingUrlPathSegment": "675_1200/learning-public-crop_675_1200/0/1711389402799?e=1753380000&v=beta&t=_IBgr90wpqc7MUXNvkcVcPKI-KXsf5DtRlctlO8C8gw",
+                  "expiresAt": 1753380000000,
+                  "height": 675
+                }
+              ],
+              "rootUrl": "https://media.licdn.com/dms/image/v2/D560DAQFd_zI7amVPuw/learning-public-crop_"
+            },
+            "nonEntityProfessionalEventLogo": null,
+            "profilePicture": null,
+            "imageUrl": null,
+            "professionalEventLogo": null,
+            "nonEntityCompanyLogo": null,
+            "nonEntitySchoolLogo": null,
+            "groupLogo": null,
+            "schoolLogo": null,
+            "ghostImage": null,
+            "nonEntityProfilePicture": null
+          },
+          "tintColor": null,
+          "_recipeType": "com.linkedin.eb94fbb1518f790c4545aafdf571c64e",
+          "tapTargets": [],
+          "displayAspectRatio": 0.56
+        }
+      ],
+      "actionTarget": null,
+      "_recipeType": "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b",
+      "accessibilityTextAttributes": [],
+      "totalCount": null,
+      "accessibilityText": "Python Essential Training"
+    },
+    "lazyLoadedActions": {
+      "_recipeType": "com.linkedin.92ece182782ae4412e712925cd97f9fe",
+      "_type": "com.linkedin.voyager.dash.search.LazyLoadedActions",
+      "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:lyndaCourse:4314028,LEARNING,SEARCH_SRP)"
+    },
+    "secondarySubtitle": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "By: Ryan Mitchell • Released Jan 25, 2023",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "_type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+    "navigationUrl": "https://www.linkedin.com/learning/python-essential-training-18764650?courseClaim=AQFS3jSVEm-h4wAAAZgZZvs5TwAWCcuEtGwq_rtUxExd0noXaWMEHzCMmqO4mDLUFwLL9xINUwXzsvlTqH2VKbajkrMkSjXNnwMsH2rRe_WXxoS42mdoLr1A9vOkD2s6MzZxqMtC_nOUmV-WZFnMRD2JarZDE9b6cQ6WJvk2hulvBuJkcDBxkhUuH8KCQiyH8YsooSHKfHJ7sD6ALzhzxhCrM09PnJF7ZnI7i3mpHxiFgqIZxclxWosUZnb9KHddw-IcsRN3xv22YkHr-HP3ADC6pV0PlKvlZbVirZ7yPOMG0eE-B10iy5zLan8G3TtqpQ2EjP4MUVDmWOZW6Rw92lJnF9AGRG2KN6Dm3WvDiqPFViWWLiBvJC1kXTTM6ZVdLSSUmK5Xa3f22yf1uyept5I7-5FDp_jKyDCfMAG0nkHyqonEZZo1AITil7wkqyEAZUnHcL_e_ZDZkZ1AtwwbF-5HX6Uy-MqcgClI6iMLA0dPfP95PWFIr_G4ChMpgk9rKlrwkH5v2N421lN5cO8VaWv-5bcsR9B9Z-2aEqxMI_1ub_vGRq2_Z81FO18E6mynYHoZDCeq86GZrAf1Gmft3gArkzQVEm04dQ9PtdC1JD5LXDUXfAJrQF174Z_8Nt05uCxM63DvAPXOKXL8E80sfrwFM9F4_E5WTRE1QwHYohabhM-8AJkm76DQkpLd2B9J3mFajNHVDAnRScmW2g17HayRzewhuPDmLuKOLVP2-fcrmm2NWqJGDX8pfpI1w2yUzcSUY8oDdBlawxW_kFaviMtRm0aWa36iT9yCoyUD_rS13NiZ1bWCAdG4dVDmEzqCmgRG3Gm_9J5SngTNvaBlGKiiSJtmr0UHFU1zxfp0L6ybiyY2Wy0xTgxnVj09GVf1lzJ6ywvYInzQsh4dwEZxmrfkBwTWflGOolVtAD2GdgIA95rUoxifbEiyJwdF5lnssyo2QozfoL9MAFddZjXz9upY1ouzFHooAtmVgp8g3RxrfYbOgfGySaE_oM0rc7gCwRkeNqB8wVvgkrl_V91MrVFjCILpiHgkdYPnEpo_BZibBiGfJCaikzanLW1yz0hW6fiK4AmyR1R9T6ksdacgsyguS28biXe2Um9Q0EFUj168G52TpOtr8CzQqJR9Ba-bHNY-85W0gB1QPH31Kqk&trk=search-cluster_flagship_learning",
+    "entityEmbeddedObject": null,
+    "unreadIndicatorDetails": null,
+    "_recipeType": "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109",
+    "target": null,
+    "actorTrackingUrn": null,
+    "navigationContext": {
+      "_type": "com.linkedin.voyager.dash.search.NavigationContext",
+      "openExternally": true,
+      "_recipeType": "com.linkedin.55ee9afd4182671fe7e271f615659525",
+      "url": "https://www.linkedin.com/learning/python-essential-training-18764650?courseClaim=AQFRgwfnEMKWXwAAAZgZZvs5uU0wm0zMF4cC77BHi0vAx4TSZEsrvsqy7ZZkrwkEbQxIg-R45kJvenDn95wIIw7vye4H7eJXxH2K3bigTehgHiVjjQg3426M_fEPM7-nb8-8nqpppZV0Q3RTXQa3oOxpw0ei9oC0TxPRLdNtDHGZHlP7YUrkJt0YrjBE7FfVDVXPFbwctjh1W5O2Zu1Vt4vA7bZONFB5FulafVU8HLAol7mSgWhKDNUzhAfOn7MnAyAgvmzunH2UPcbSqCWFKSUqheWMnQL8I-75Z_8JqcO6v8f16N1L1WUTVftdEfEvwgTrj1_gLervvGu3-RvvW70ENjRkGwYRu8JGxXz2WVKdmd1-NZ_J7shWDnMmCCsiAIAjez3RXhoHTCyDDHNiH-kdyocDOuFgZ1z7ObYO_foV0V0URNUSwacepfyJrgpFhPtZKNwkWprJs9HaOmlc8soBk0NmbRVzujCr97tTQXXDHGzM3bzrbhWnd27J17C584ei1dmsUPG3Mp6Y0gAYZQR2L8ld7-_n4-cXCmSplJ3qKUnteFF7Hmjpo6eL-zE8oHwx4Ptr0JlxSFAPzxE76keo5bkk-wjGo5uMJh7_Yzf5jz1_ttka7i-7IXR121lmqHWsIfMrdouDYAd7QxKQV1JplyDPGNokxtLG7MkINKGjYCZJc0KN9FS1wDhG2YTTj03vNAaFMFD6SkczBWkjacn4jg5Q1cIGxfTqEm4gHKj7D1xja0eCDftjhVHVPWfFq_nYXNJHb4HddS2hLOlYLwpmLhUjRIWn4t66dKeBNEfWp7UCzr3Tcz7WY0AGP3suOk5hONKf5NfbDKAA52OgRu_2h9QM2LAmRJA-ZR46In5c12MaZLZjHxmYc_SBw_3GzQrmOkzCF8f7WEOQAZ3pqjZ0GlUQG3ebFr8grC-CMBzplF3LEkSokh2fe4MH9i_tcbmaXXYv5X3W2z9F5ntySroRZk8oaVbjlYhAYnlqdHKvYSAdEsllje9Wh31Y8sZk1yv30sqqEYL49qLLbvtxYFfAvf6EfPFtoCq35qg1WKNOOyUrB7znsXr3ZMnp48VcTnZ6QO5ETFu5vXn0-CTMsFjULYZRvo_y97cGpfMUtVuLqIbq9KfNmfSAIddoOS8-898OXa1C4Hc_410cY68&trk=search-cluster_flagship_learning"
+    }
+  },
+  {
+    "template": "UNIVERSAL",
+    "actorNavigationContext": null,
+    "trackingUrn": "urn:li:lyndaCourse:2896241",
+    "controlName": null,
+    "interstitialComponent": null,
+    "primaryActions": [],
+    "entityCustomTrackingInfo": null,
+    "title": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "Learning Python (2021)",
+      "attributesV2": [
+        {
+          "start": 0,
+          "length": 22,
+          "_type": "com.linkedin.voyager.dash.common.text.TextAttribute",
+          "detailData": {
+            "jobPostingName": null,
+            "hyperlink": null,
+            "profileFamiliarName": null,
+            "color": null,
+            "companyName": null,
+            "icon": null,
+            "epoch": null,
+            "systemImage": null,
+            "textLink": null,
+            "listItemStyle": null,
+            "groupName": null,
+            "hyperlinkOpenExternally": null,
+            "listStyle": null,
+            "profileFullName": null,
+            "stringFieldReference": null,
+            "learningCourseName": null,
+            "profileMention": null,
+            "style": "BOLD",
+            "schoolName": null,
+            "hashtag": null
+          },
+          "_recipeType": "com.linkedin.b8a09c2c7547138a1c3aebdda8a94e12"
+        }
+      ],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "overflowActions": [],
+    "searchActionType": null,
+    "actorInsights": [],
+    "insightsResolutionResults": [],
+    "badgeIcon": null,
+    "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:lyndaCourse:2896241,SEARCH_SRP,DEFAULT)",
+    "showAdditionalCluster": false,
+    "ringStatus": null,
+    "primarySubtitle": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "Course • 3h 5m",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "badgeText": null,
+    "trackingId": "jrSG1mgySz6m8Y6QSUT69A==",
+    "actorNavigationUrl": null,
+    "addEntityToSearchHistory": false,
+    "summary": null,
+    "image": {
+      "_type": "com.linkedin.voyager.dash.common.image.ImageViewModel",
+      "attributes": [
+        {
+          "scalingType": null,
+          "_type": "com.linkedin.voyager.dash.common.image.ImageAttribute",
+          "detailData": {
+            "profilePictureWithoutFrame": null,
+            "profilePictureWithRingStatus": null,
+            "companyLogo": null,
+            "icon": null,
+            "systemImage": null,
+            "nonEntityGroupLogo": null,
+            "vectorImage": {
+              "_type": "com.linkedin.common.VectorImage",
+              "attribution": null,
+              "_recipeType": "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9",
+              "digitalmediaAsset": "urn:li:digitalmediaAsset:D560DAQFJQ43v9cHdkw",
+              "artifacts": [
+                {
+                  "width": 256,
+                  "_type": "com.linkedin.common.VectorArtifact",
+                  "_recipeType": "com.linkedin.f0f435b4425ee2990eba8f0a4d614944",
+                  "fileIdentifyingUrlPathSegment": "144_256/learning-public-crop_144_256/0/1694721144608?e=1753380000&v=beta&t=TnBLD9NJLctujlAM8XvcW2IR25zbOUjM8003GmFT8qc",
+                  "expiresAt": 1753380000000,
+                  "height": 144
+                },
+                {
+                  "width": 512,
+                  "_type": "com.linkedin.common.VectorArtifact",
+                  "_recipeType": "com.linkedin.f0f435b4425ee2990eba8f0a4d614944",
+                  "fileIdentifyingUrlPathSegment": "288_512/learning-public-crop_288_512/0/1694721144608?e=1753380000&v=beta&t=GUDR05578dfRGlOYc59Uen7CCi46q2ZQylMahE4wScE",
+                  "expiresAt": 1753380000000,
+                  "height": 288
+                },
+                {
+                  "width": 100,
+                  "_type": "com.linkedin.common.VectorArtifact",
+                  "_recipeType": "com.linkedin.f0f435b4425ee2990eba8f0a4d614944",
+                  "fileIdentifyingUrlPathSegment": "60_100/learning-public-crop_60_100/0/1694721144608?e=1753380000&v=beta&t=36QGkUAa4M0PjYP8UvqL-cL3bckN5ZMOvdZdcZsdFgE",
+                  "expiresAt": 1753380000000,
+                  "height": 60
+                },
+                {
+                  "width": 432,
+                  "_type": "com.linkedin.common.VectorArtifact",
+                  "_recipeType": "com.linkedin.f0f435b4425ee2990eba8f0a4d614944",
+                  "fileIdentifyingUrlPathSegment": "240_432/learning-public-crop_240_432/0/1694721144608?e=1753380000&v=beta&t=sFhx90K0HckORrgqblXCoR2A5saqMYNlJCV_k1lTbJ0",
+                  "expiresAt": 1753380000000,
+                  "height": 240
+                },
+                {
+                  "width": 1200,
+                  "_type": "com.linkedin.common.VectorArtifact",
+                  "_recipeType": "com.linkedin.f0f435b4425ee2990eba8f0a4d614944",
+                  "fileIdentifyingUrlPathSegment": "675_1200/learning-public-crop_675_1200/0/1694721144608?e=1753380000&v=beta&t=6zq2QplDKXNiXb9U_0TZMJrh3b1kyvTqJLwXTKod5ys",
+                  "expiresAt": 1753380000000,
+                  "height": 675
+                }
+              ],
+              "rootUrl": "https://media.licdn.com/dms/image/v2/D560DAQFJQ43v9cHdkw/learning-public-crop_"
+            },
+            "nonEntityProfessionalEventLogo": null,
+            "profilePicture": null,
+            "imageUrl": null,
+            "professionalEventLogo": null,
+            "nonEntityCompanyLogo": null,
+            "nonEntitySchoolLogo": null,
+            "groupLogo": null,
+            "schoolLogo": null,
+            "ghostImage": null,
+            "nonEntityProfilePicture": null
+          },
+          "tintColor": null,
+          "_recipeType": "com.linkedin.eb94fbb1518f790c4545aafdf571c64e",
+          "tapTargets": [],
+          "displayAspectRatio": 0.56
+        }
+      ],
+      "actionTarget": null,
+      "_recipeType": "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b",
+      "accessibilityTextAttributes": [],
+      "totalCount": null,
+      "accessibilityText": "Learning Python (2021)"
+    },
+    "lazyLoadedActions": {
+      "_recipeType": "com.linkedin.92ece182782ae4412e712925cd97f9fe",
+      "_type": "com.linkedin.voyager.dash.search.LazyLoadedActions",
+      "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:lyndaCourse:2896241,LEARNING,SEARCH_SRP)"
+    },
+    "secondarySubtitle": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "By: Joe Marini • Released Nov 19, 2021",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "_type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+    "navigationUrl": "https://www.linkedin.com/learning/learning-python-2021?courseClaim=AQG8WuCPp1zeiQAAAZgZZvs8auB-AoxrHzSceg_6TmYnu-xYVVuBJvKeQAv80ApHC0oay9pgyt5LCvYKoJWFzsfCzlaLO9oEKoUGq90qIXkvmegqSZ-CydM6eRfQeZW5GvkbDYExqzD-Af5ocqq-KDpE1zHQXLSpQ4ViS2G_e5UopWfZY8Fcs24Tq015TpGfScGzvhgtqZlZIKK9CpxeXskymKoxMdoqFGfqFUR8t04eLWCQsF7zkTBLdQ5Ef6ZKqLKVkp37-Z-6bN7xosvM9EXG40bA6O9SF-6AhP3Y-mYJaBBUca__Ue9iiLTPepgKitlfMPVQbFXBFFPBwMm5VWR8giorTuVUnjr0atxD7wu1wJUJMJmOZtob8KBh9OjZkudlpoYZVTPg5jbccBcOw1ZdonnlSxoq9lYYV8A_JX631TQV6T2VgU-LD55JebEviZbn4vdF5jFUvYmWnjirOG3c96uGc4L4XCtwCm83rFLdu5RTXgIEH29s6SloV6zuuYdqYzfhPvWcIJUUbfMm2RQJb0SAik74Detg_JSHTKX1gDlwDN8d8IgENHEse-LNq_phyJhva1Pg-J-xmQojDES3xtHZWg9C7mieIMpG7JUPZb7DTk8rYeavuxuCNBW7ZAKeVE9Bbip0IlSHhRb7hPry7fHQ0_iCiijWtnQovWasfz4_-AofJI62Bkt_TcbCTOwTa1QZvFTW0l1OX7fPCE2oIZeIye8EwA0zF9oas2kquGO9X7YZk7IczepMrzhE8R6zbLDJpRZP_OOHbpzpI_-e4HQtTo-WzCj1HL3M3uLDLgtlF0RcNdCHEqjHcAZkVNS6DYkh75xLpjg2g8_Z8iQUBOcb-DMPrbFDelX6lzcwsoFvfrOc0n8Jko62jFZ-5V7EhR5mZgrZj03rtjOPrkJ_vmcDEBDLR407cIWTQXdZxyWVW0_Z4YKmaiND0at2AaTnMlFGj_VVi2O3ds9dp21g2FBNH4cXGGdahfhOLcS25mME0id8EvwUB24JgWgv6zGJ1G-nOgcRhO25XkGe1zMhkHuazSl98uQiFhKBBCbJ9o0QPeG0fF5huAcbjReLHMx_WbLJ-LHmrlb_0ocqDRjqvIYTwYMhpuRHuzD_mB-6e0Ssx4jC52IV7oUceBTVtKOy0Ww6a8A6Uld7PdA&trk=search-cluster_flagship_learning",
+    "entityEmbeddedObject": null,
+    "unreadIndicatorDetails": null,
+    "_recipeType": "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109",
+    "target": null,
+    "actorTrackingUrn": null,
+    "navigationContext": {
+      "_type": "com.linkedin.voyager.dash.search.NavigationContext",
+      "openExternally": true,
+      "_recipeType": "com.linkedin.55ee9afd4182671fe7e271f615659525",
+      "url": "https://www.linkedin.com/learning/learning-python-2021?courseClaim=AQGQspJJZbTj3AAAAZgZZvs82ro4s3kEoNeoAG2hJLOuUgIwMw9VlhCT77oSge7ILOlDFy2DM0EIqrcp54rN0CgIhSP7m7watLVuLUMxqIiPFqtCenGFPUwdjaeZfnvhmiLEutbT4S1Uu4XqPAHgxzGTuAUXazLkk7KKgznX2yRd0Gw-kxZHJCbI62gHY-0S2qIfloV3OtmkBxCSodHp2L1tbUE2xKRWXIxXeG1YUWQf8Ul0uFAwCjvIjJoyi1dQpHnOZz8lLkzGyHwI1TSizdW70tblftfslKc9VvU4dUNw7TH58AhJVjchOXCQZLTzzjLZ9iRf63q57yD5oOjszMgu73Pmliarz0m94kZRIP7x9rC1stv0gV-n5OjJFsm4zGF-RZ4hqnrZge17QhTTD5zx12-ht3Wc6M5Y6sQxQQd7uj1sl6o9pzE_UVJ7s3nP-PMrazKOOL88z2IzF6dzyj1iUjxbhSGuVx6wizfb8Mhx3oJhiklSMgFX4etJ7gdelX95T5AzMID2sKE5S7O5LugN2A2RR73IirNOCu7o0t81OgCABs9yfgSEC6sZHZpUTd8Npl2ysgOV6RLWboMit3kNgbovoaHzxf4NYMz0UPOHxW-iwvc4l7Yd03kNEBYOa5NgKN_hZFDAxf_WF3VqnyTGfSwd4SKnD8qNPkyTO7xGuEP7Sl8TyS8Koi1e1fcd_CiJCap-Ns-JNgT60sxm4TnmrQ2ahqYIAPtPC2hdluLSPdU6NncDQ6cOcqr9hRJW-v0_-KJ4TKpVI5Cr-l_L2pIso8uOATYNZpiSBmap4BA_8uBBwS4H8CQn1zBv62KEAyqM8SldHa0knpCLpaIULXzZA_JB2aaDHqp2DTtpyKtnaTmEeNmaln4LisGp5REfEBRDnqBPWsmHpFTr2-3hlx7ew9K9zjT8xkrYjW4QlXtf7d9HLPDJ_v9ugnWuEfKq2svZI_jk8-i0gNwS9fEL65bwNqEH7DLZ4CFEYGAQZoK_3Aa3NaPu2ZqJyBU_bJ8a2fW1rS5AjAfyS4HzPpnsA8Zb_vvQjKPWBtbzSuoF0NkyI-Wu5XR9Kc-qoEbPWsn6LM5x0-CAb4lFfXdwlj6bMcIWoTjZW8Jqqtf4c24ROpmFcyQBw0znpLaKFnMuyhhlE-UXB1Q04hJp3VA0ae0&trk=search-cluster_flagship_learning"
+    }
+  },
+  {
+    "template": "UNIVERSAL",
+    "actorNavigationContext": null,
+    "trackingUrn": "urn:li:job:4266959033",
+    "controlName": null,
+    "interstitialComponent": null,
+    "primaryActions": [],
+    "entityCustomTrackingInfo": null,
+    "title": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "Python Developer",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "overflowActions": [],
+    "searchActionType": null,
+    "actorInsights": [],
+    "insightsResolutionResults": [
+      {
+        "jobPostingInsight": null,
+        "relationshipsInsight": null,
+        "serviceProviderRatingInsight": null,
+        "simpleInsight": {
+          "searchActionType": null,
+          "image": {
+            "_type": "com.linkedin.voyager.dash.common.image.ImageViewModel",
+            "attributes": [
+              {
+                "scalingType": null,
+                "_type": "com.linkedin.voyager.dash.common.image.ImageAttribute",
+                "detailData": {
+                  "profilePictureWithoutFrame": null,
+                  "profilePictureWithRingStatus": null,
+                  "companyLogo": null,
+                  "icon": null,
+                  "systemImage": "SYS_ICN_RESPONSIVE_MEDIUM",
+                  "nonEntityGroupLogo": null,
+                  "vectorImage": null,
+                  "nonEntityProfessionalEventLogo": null,
+                  "profilePicture": null,
+                  "imageUrl": null,
+                  "professionalEventLogo": null,
+                  "nonEntityCompanyLogo": null,
+                  "nonEntitySchoolLogo": null,
+                  "groupLogo": null,
+                  "schoolLogo": null,
+                  "ghostImage": null,
+                  "nonEntityProfilePicture": null
+                },
+                "tintColor": "SIGNAL_POSITIVE",
+                "_recipeType": "com.linkedin.eb94fbb1518f790c4545aafdf571c64e",
+                "tapTargets": [],
+                "displayAspectRatio": null
+              }
+            ],
+            "actionTarget": null,
+            "accessibilityTextAttributes": [],
+            "_recipeType": "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b",
+            "totalCount": null,
+            "accessibilityText": "Company review time is typically 1 week"
+          },
+          "subtitle": null,
+          "_type": "com.linkedin.voyager.dash.search.SimpleInsight",
+          "controlName": null,
+          "navigationUrl": null,
+          "title": {
+            "textDirection": "USER_LOCALE",
+            "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+            "text": "Company review time is typically 1 week",
+            "attributesV2": [],
+            "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+            "accessibilityTextAttributesV2": [],
+            "accessibilityText": null
+          },
+          "_recipeType": "com.linkedin.bd9a707a5b119c1f331373113f57344a"
+        },
+        "jobPostingFooterInsight": null,
+        "socialActivityCountsInsight": null,
+        "labelsInsight": null
+      },
+      {
+        "jobPostingInsight": null,
+        "relationshipsInsight": null,
+        "serviceProviderRatingInsight": null,
+        "simpleInsight": null,
+        "jobPostingFooterInsight": {
+          "_type": "com.linkedin.voyager.dash.jobs.JobPostingCard",
+          "footerItems": [
+            {
+              "_type": "com.linkedin.voyager.dash.jobs.JobPostingCardFooterItem",
+              "text": null,
+              "type": "LISTED_DATE",
+              "timeAt": 1752745032000,
+              "_recipeType": "com.linkedin.ae028897a212c87f2a4f1a573b71652d"
+            },
+            {
+              "_type": "com.linkedin.voyager.dash.jobs.JobPostingCardFooterItem",
+              "text": {
+                "textDirection": "USER_LOCALE",
+                "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+                "text": "Easy Apply",
+                "attributesV2": [],
+                "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null
+              },
+              "type": "EASY_APPLY_TEXT",
+              "_recipeType": "com.linkedin.ae028897a212c87f2a4f1a573b71652d",
+              "timeAt": null
+            }
+          ],
+          "_recipeType": "com.linkedin.791d0c903911aab58f40e6744715af71",
+          "entityUrn": "urn:li:fsd_jobPostingCard:(4266959033,BLENDED_SEARCH)"
+        },
+        "socialActivityCountsInsight": null,
+        "labelsInsight": null
+      }
+    ],
+    "badgeIcon": null,
+    "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_jobPosting:4266959033,SEARCH_SRP,DEFAULT)",
+    "showAdditionalCluster": false,
+    "ringStatus": null,
+    "primarySubtitle": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "HandsTogether Tech",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "badgeText": null,
+    "trackingId": "fCXZDm2yTvSeICGLIFlErA==",
+    "actorNavigationUrl": null,
+    "addEntityToSearchHistory": false,
+    "summary": null,
+    "image": {
+      "_type": "com.linkedin.voyager.dash.common.image.ImageViewModel",
+      "attributes": [
+        {
+          "scalingType": null,
+          "_type": "com.linkedin.voyager.dash.common.image.ImageAttribute",
+          "detailData": {
+            "profilePictureWithoutFrame": null,
+            "profilePictureWithRingStatus": null,
+            "companyLogo": null,
+            "icon": null,
+            "systemImage": null,
+            "nonEntityGroupLogo": null,
+            "vectorImage": null,
+            "nonEntityProfessionalEventLogo": null,
+            "profilePicture": null,
+            "imageUrl": null,
+            "professionalEventLogo": null,
+            "nonEntityCompanyLogo": {
+              "_type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo",
+              "company": {
+                "_recipeType": "com.linkedin.2c2374bef3eaba3e079b4a11e2f7bea8",
+                "_type": "com.linkedin.voyager.dash.organization.Company",
+                "entityUrn": "urn:li:fsd_company:80637098"
+              },
+              "_recipeType": "com.linkedin.3be27b5a0eb7edd91e98b14c0290096c",
+              "vectorImage": {
+                "_type": "com.linkedin.common.VectorImage",
+                "attribution": null,
+                "_recipeType": "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9",
+                "digitalmediaAsset": null,
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "_type": "com.linkedin.common.VectorArtifact",
+                    "_recipeType": "com.linkedin.f0f435b4425ee2990eba8f0a4d614944",
+                    "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/C4E0BAQH8IDOAVlfSsw/company-logo_100_100/company-logo_100_100/0/1636354526641?e=1755734400&v=beta&t=XqSwWXe_cE7KjYpjE-Q8nigj0w2zwR1NIMMZAbjwTps",
+                    "expiresAt": 1755734400000,
+                    "height": 100
+                  }
+                ],
+                "rootUrl": ""
+              }
+            },
+            "nonEntitySchoolLogo": null,
+            "groupLogo": null,
+            "schoolLogo": null,
+            "ghostImage": null,
+            "nonEntityProfilePicture": null
+          },
+          "tintColor": null,
+          "_recipeType": "com.linkedin.eb94fbb1518f790c4545aafdf571c64e",
+          "tapTargets": [],
+          "displayAspectRatio": null
+        }
+      ],
+      "actionTarget": null,
+      "_recipeType": "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b",
+      "accessibilityTextAttributes": [],
+      "totalCount": null,
+      "accessibilityText": "Python Developer"
+    },
+    "lazyLoadedActions": {
+      "_recipeType": "com.linkedin.92ece182782ae4412e712925cd97f9fe",
+      "_type": "com.linkedin.voyager.dash.search.LazyLoadedActions",
+      "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_jobPosting:4266959033,JOBS,SEARCH_SRP)"
+    },
+    "secondarySubtitle": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "Surat, Gujarat, India (On-site)",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "_type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+    "navigationUrl": "https://www.linkedin.com/jobs/view/4266959033/?refId=a80731b3-5045-4b72-8c31-76952b830428&trackingId=fCXZDm2yTvSeICGLIFlErA%3D%3D",
+    "entityEmbeddedObject": null,
+    "unreadIndicatorDetails": null,
+    "_recipeType": "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109",
+    "target": null,
+    "actorTrackingUrn": null,
+    "navigationContext": {
+      "_type": "com.linkedin.voyager.dash.search.NavigationContext",
+      "openExternally": false,
+      "_recipeType": "com.linkedin.55ee9afd4182671fe7e271f615659525",
+      "url": "https://www.linkedin.com/jobs/view/4266959033/?refId=a80731b3-5045-4b72-8c31-76952b830428&trackingId=fCXZDm2yTvSeICGLIFlErA%3D%3D"
+    }
+  },
+  {
+    "template": "UNIVERSAL",
+    "actorNavigationContext": null,
+    "trackingUrn": "urn:li:job:4265679422",
+    "controlName": null,
+    "interstitialComponent": null,
+    "primaryActions": [],
+    "entityCustomTrackingInfo": null,
+    "title": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "Junior Python Developer",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "overflowActions": [],
+    "searchActionType": null,
+    "actorInsights": [],
+    "insightsResolutionResults": [
+      {
+        "jobPostingInsight": null,
+        "relationshipsInsight": null,
+        "serviceProviderRatingInsight": null,
+        "simpleInsight": null,
+        "jobPostingFooterInsight": {
+          "_type": "com.linkedin.voyager.dash.jobs.JobPostingCard",
+          "footerItems": [
+            {
+              "_type": "com.linkedin.voyager.dash.jobs.JobPostingCardFooterItem",
+              "text": null,
+              "type": "LISTED_DATE",
+              "timeAt": 1752321151000,
+              "_recipeType": "com.linkedin.ae028897a212c87f2a4f1a573b71652d"
+            },
+            {
+              "_type": "com.linkedin.voyager.dash.jobs.JobPostingCardFooterItem",
+              "text": {
+                "textDirection": "USER_LOCALE",
+                "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+                "text": "Easy Apply",
+                "attributesV2": [],
+                "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null
+              },
+              "type": "EASY_APPLY_TEXT",
+              "_recipeType": "com.linkedin.ae028897a212c87f2a4f1a573b71652d",
+              "timeAt": null
+            }
+          ],
+          "_recipeType": "com.linkedin.791d0c903911aab58f40e6744715af71",
+          "entityUrn": "urn:li:fsd_jobPostingCard:(4265679422,BLENDED_SEARCH)"
+        },
+        "socialActivityCountsInsight": null,
+        "labelsInsight": null
+      }
+    ],
+    "badgeIcon": null,
+    "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_jobPosting:4265679422,SEARCH_SRP,DEFAULT)",
+    "showAdditionalCluster": false,
+    "ringStatus": null,
+    "primarySubtitle": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "GradXpert",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "badgeText": null,
+    "trackingId": "W0TKn/TsTDO98drwDf5qCQ==",
+    "actorNavigationUrl": null,
+    "addEntityToSearchHistory": false,
+    "summary": null,
+    "image": {
+      "_type": "com.linkedin.voyager.dash.common.image.ImageViewModel",
+      "attributes": [
+        {
+          "scalingType": null,
+          "_type": "com.linkedin.voyager.dash.common.image.ImageAttribute",
+          "detailData": {
+            "profilePictureWithoutFrame": null,
+            "profilePictureWithRingStatus": null,
+            "companyLogo": null,
+            "icon": null,
+            "systemImage": null,
+            "nonEntityGroupLogo": null,
+            "vectorImage": null,
+            "nonEntityProfessionalEventLogo": null,
+            "profilePicture": null,
+            "imageUrl": null,
+            "professionalEventLogo": null,
+            "nonEntityCompanyLogo": {
+              "_type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo",
+              "company": {
+                "_recipeType": "com.linkedin.2c2374bef3eaba3e079b4a11e2f7bea8",
+                "_type": "com.linkedin.voyager.dash.organization.Company",
+                "entityUrn": "urn:li:fsd_company:105280116"
+              },
+              "_recipeType": "com.linkedin.3be27b5a0eb7edd91e98b14c0290096c",
+              "vectorImage": {
+                "_type": "com.linkedin.common.VectorImage",
+                "attribution": null,
+                "_recipeType": "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9",
+                "digitalmediaAsset": null,
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "_type": "com.linkedin.common.VectorArtifact",
+                    "_recipeType": "com.linkedin.f0f435b4425ee2990eba8f0a4d614944",
+                    "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/D560BAQFScKoYaxdoUg/company-logo_100_100/company-logo_100_100/0/1737107649135/gradxpert_logo?e=1755734400&v=beta&t=R__U1cR2hClxcXY7lS4_Cj9mfoX1aisiUtmu4xE6scA",
+                    "expiresAt": 1755734400000,
+                    "height": 100
+                  }
+                ],
+                "rootUrl": ""
+              }
+            },
+            "nonEntitySchoolLogo": null,
+            "groupLogo": null,
+            "schoolLogo": null,
+            "ghostImage": null,
+            "nonEntityProfilePicture": null
+          },
+          "tintColor": null,
+          "_recipeType": "com.linkedin.eb94fbb1518f790c4545aafdf571c64e",
+          "tapTargets": [],
+          "displayAspectRatio": null
+        }
+      ],
+      "actionTarget": null,
+      "_recipeType": "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b",
+      "accessibilityTextAttributes": [],
+      "totalCount": null,
+      "accessibilityText": "Junior Python Developer"
+    },
+    "lazyLoadedActions": {
+      "_recipeType": "com.linkedin.92ece182782ae4412e712925cd97f9fe",
+      "_type": "com.linkedin.voyager.dash.search.LazyLoadedActions",
+      "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_jobPosting:4265679422,JOBS,SEARCH_SRP)"
+    },
+    "secondarySubtitle": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "Greater Delhi Area (Remote)",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "_type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+    "navigationUrl": "https://www.linkedin.com/jobs/view/4265679422/?refId=a80731b3-5045-4b72-8c31-76952b830428&trackingId=W0TKn%2FTsTDO98drwDf5qCQ%3D%3D",
+    "entityEmbeddedObject": null,
+    "unreadIndicatorDetails": null,
+    "_recipeType": "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109",
+    "target": null,
+    "actorTrackingUrn": null,
+    "navigationContext": {
+      "_type": "com.linkedin.voyager.dash.search.NavigationContext",
+      "openExternally": false,
+      "_recipeType": "com.linkedin.55ee9afd4182671fe7e271f615659525",
+      "url": "https://www.linkedin.com/jobs/view/4265679422/?refId=a80731b3-5045-4b72-8c31-76952b830428&trackingId=W0TKn%2FTsTDO98drwDf5qCQ%3D%3D"
+    }
+  },
+  {
+    "template": "UNIVERSAL",
+    "actorNavigationContext": null,
+    "trackingUrn": "urn:li:job:4266637720",
+    "controlName": null,
+    "interstitialComponent": null,
+    "primaryActions": [],
+    "entityCustomTrackingInfo": null,
+    "title": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "Python Developer Intern",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "overflowActions": [],
+    "searchActionType": null,
+    "actorInsights": [],
+    "insightsResolutionResults": [
+      {
+        "jobPostingInsight": null,
+        "relationshipsInsight": null,
+        "serviceProviderRatingInsight": null,
+        "simpleInsight": null,
+        "jobPostingFooterInsight": {
+          "_type": "com.linkedin.voyager.dash.jobs.JobPostingCard",
+          "footerItems": [
+            {
+              "_type": "com.linkedin.voyager.dash.jobs.JobPostingCardFooterItem",
+              "text": null,
+              "type": "LISTED_DATE",
+              "timeAt": 1752568568000,
+              "_recipeType": "com.linkedin.ae028897a212c87f2a4f1a573b71652d"
+            }
+          ],
+          "_recipeType": "com.linkedin.791d0c903911aab58f40e6744715af71",
+          "entityUrn": "urn:li:fsd_jobPostingCard:(4266637720,BLENDED_SEARCH)"
+        },
+        "socialActivityCountsInsight": null,
+        "labelsInsight": null
+      }
+    ],
+    "badgeIcon": null,
+    "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_jobPosting:4266637720,SEARCH_SRP,DEFAULT)",
+    "showAdditionalCluster": false,
+    "ringStatus": null,
+    "primarySubtitle": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "Innovate Solutions",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "badgeText": null,
+    "trackingId": "fLRIFn3jSQ2rRwm0TE/DCA==",
+    "actorNavigationUrl": null,
+    "addEntityToSearchHistory": false,
+    "summary": null,
+    "image": {
+      "_type": "com.linkedin.voyager.dash.common.image.ImageViewModel",
+      "attributes": [
+        {
+          "scalingType": null,
+          "_type": "com.linkedin.voyager.dash.common.image.ImageAttribute",
+          "detailData": {
+            "profilePictureWithoutFrame": null,
+            "profilePictureWithRingStatus": null,
+            "companyLogo": null,
+            "icon": null,
+            "systemImage": null,
+            "nonEntityGroupLogo": null,
+            "vectorImage": null,
+            "nonEntityProfessionalEventLogo": null,
+            "profilePicture": null,
+            "imageUrl": null,
+            "professionalEventLogo": null,
+            "nonEntityCompanyLogo": {
+              "_type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo",
+              "company": {
+                "_recipeType": "com.linkedin.2c2374bef3eaba3e079b4a11e2f7bea8",
+                "_type": "com.linkedin.voyager.dash.organization.Company",
+                "entityUrn": "urn:li:fsd_company:105791651"
+              },
+              "_recipeType": "com.linkedin.3be27b5a0eb7edd91e98b14c0290096c",
+              "vectorImage": {
+                "_type": "com.linkedin.common.VectorImage",
+                "attribution": null,
+                "_recipeType": "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9",
+                "digitalmediaAsset": null,
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "_type": "com.linkedin.common.VectorArtifact",
+                    "_recipeType": "com.linkedin.f0f435b4425ee2990eba8f0a4d614944",
+                    "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/D4E0BAQEuppfaUz0Gow/company-logo_100_100/B4EZYCaUzjHUAU-/0/1743797178383/neonsofttechnologies_logo?e=1755734400&v=beta&t=WtlofEHeJicaeDSt7-k1NelOgdmCgnQbdzF6vZP4j-s",
+                    "expiresAt": 1755734400000,
+                    "height": 100
+                  }
+                ],
+                "rootUrl": ""
+              }
+            },
+            "nonEntitySchoolLogo": null,
+            "groupLogo": null,
+            "schoolLogo": null,
+            "ghostImage": null,
+            "nonEntityProfilePicture": null
+          },
+          "tintColor": null,
+          "_recipeType": "com.linkedin.eb94fbb1518f790c4545aafdf571c64e",
+          "tapTargets": [],
+          "displayAspectRatio": null
+        }
+      ],
+      "actionTarget": null,
+      "_recipeType": "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b",
+      "accessibilityTextAttributes": [],
+      "totalCount": null,
+      "accessibilityText": "Python Developer Intern"
+    },
+    "lazyLoadedActions": {
+      "_recipeType": "com.linkedin.92ece182782ae4412e712925cd97f9fe",
+      "_type": "com.linkedin.voyager.dash.search.LazyLoadedActions",
+      "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_jobPosting:4266637720,JOBS,SEARCH_SRP)"
+    },
+    "secondarySubtitle": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "India (Remote)",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "_type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+    "navigationUrl": "https://www.linkedin.com/jobs/view/4266637720/?refId=a80731b3-5045-4b72-8c31-76952b830428&trackingId=fLRIFn3jSQ2rRwm0TE%2FDCA%3D%3D",
+    "entityEmbeddedObject": null,
+    "unreadIndicatorDetails": null,
+    "_recipeType": "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109",
+    "target": null,
+    "actorTrackingUrn": null,
+    "navigationContext": {
+      "_type": "com.linkedin.voyager.dash.search.NavigationContext",
+      "openExternally": false,
+      "_recipeType": "com.linkedin.55ee9afd4182671fe7e271f615659525",
+      "url": "https://www.linkedin.com/jobs/view/4266637720/?refId=a80731b3-5045-4b72-8c31-76952b830428&trackingId=fLRIFn3jSQ2rRwm0TE%2FDCA%3D%3D"
+    }
+  },
+  {
+    "template": "UNIVERSAL",
+    "actorNavigationContext": null,
+    "trackingUrn": "urn:li:job:4267730619",
+    "controlName": null,
+    "interstitialComponent": null,
+    "primaryActions": [],
+    "entityCustomTrackingInfo": null,
+    "title": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "Python Developer",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "overflowActions": [],
+    "searchActionType": null,
+    "actorInsights": [],
+    "insightsResolutionResults": [
+      {
+        "jobPostingInsight": null,
+        "relationshipsInsight": null,
+        "serviceProviderRatingInsight": null,
+        "simpleInsight": null,
+        "jobPostingFooterInsight": {
+          "_type": "com.linkedin.voyager.dash.jobs.JobPostingCard",
+          "footerItems": [
+            {
+              "_type": "com.linkedin.voyager.dash.jobs.JobPostingCardFooterItem",
+              "text": null,
+              "type": "LISTED_DATE",
+              "timeAt": 1752732482000,
+              "_recipeType": "com.linkedin.ae028897a212c87f2a4f1a573b71652d"
+            },
+            {
+              "_type": "com.linkedin.voyager.dash.jobs.JobPostingCardFooterItem",
+              "text": {
+                "textDirection": "USER_LOCALE",
+                "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+                "text": "Easy Apply",
+                "attributesV2": [],
+                "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null
+              },
+              "type": "EASY_APPLY_TEXT",
+              "_recipeType": "com.linkedin.ae028897a212c87f2a4f1a573b71652d",
+              "timeAt": null
+            }
+          ],
+          "_recipeType": "com.linkedin.791d0c903911aab58f40e6744715af71",
+          "entityUrn": "urn:li:fsd_jobPostingCard:(4267730619,BLENDED_SEARCH)"
+        },
+        "socialActivityCountsInsight": null,
+        "labelsInsight": null
+      }
+    ],
+    "badgeIcon": null,
+    "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_jobPosting:4267730619,SEARCH_SRP,DEFAULT)",
+    "showAdditionalCluster": false,
+    "ringStatus": null,
+    "primarySubtitle": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "BayOne Solutions",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "badgeText": null,
+    "trackingId": "HFbWogFrSTSLc0qUK/+SUA==",
+    "actorNavigationUrl": null,
+    "addEntityToSearchHistory": false,
+    "summary": null,
+    "image": {
+      "_type": "com.linkedin.voyager.dash.common.image.ImageViewModel",
+      "attributes": [
+        {
+          "scalingType": null,
+          "_type": "com.linkedin.voyager.dash.common.image.ImageAttribute",
+          "detailData": {
+            "profilePictureWithoutFrame": null,
+            "profilePictureWithRingStatus": null,
+            "companyLogo": null,
+            "icon": null,
+            "systemImage": null,
+            "nonEntityGroupLogo": null,
+            "vectorImage": null,
+            "nonEntityProfessionalEventLogo": null,
+            "profilePicture": null,
+            "imageUrl": null,
+            "professionalEventLogo": null,
+            "nonEntityCompanyLogo": {
+              "_type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo",
+              "company": {
+                "_recipeType": "com.linkedin.2c2374bef3eaba3e079b4a11e2f7bea8",
+                "_type": "com.linkedin.voyager.dash.organization.Company",
+                "entityUrn": "urn:li:fsd_company:2689946"
+              },
+              "_recipeType": "com.linkedin.3be27b5a0eb7edd91e98b14c0290096c",
+              "vectorImage": {
+                "_type": "com.linkedin.common.VectorImage",
+                "attribution": null,
+                "_recipeType": "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9",
+                "digitalmediaAsset": null,
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "_type": "com.linkedin.common.VectorArtifact",
+                    "_recipeType": "com.linkedin.f0f435b4425ee2990eba8f0a4d614944",
+                    "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/D560BAQFB2EacVt_3mw/company-logo_100_100/company-logo_100_100/0/1720628480768/bayone_solutions_logo?e=1755734400&v=beta&t=13EDc0Byuj9QjOjZJHImjcppIZgu5SNaIEJJ9txRKLI",
+                    "expiresAt": 1755734400000,
+                    "height": 100
+                  }
+                ],
+                "rootUrl": ""
+              }
+            },
+            "nonEntitySchoolLogo": null,
+            "groupLogo": null,
+            "schoolLogo": null,
+            "ghostImage": null,
+            "nonEntityProfilePicture": null
+          },
+          "tintColor": null,
+          "_recipeType": "com.linkedin.eb94fbb1518f790c4545aafdf571c64e",
+          "tapTargets": [],
+          "displayAspectRatio": null
+        }
+      ],
+      "actionTarget": null,
+      "_recipeType": "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b",
+      "accessibilityTextAttributes": [],
+      "totalCount": null,
+      "accessibilityText": "Python Developer"
+    },
+    "lazyLoadedActions": {
+      "_recipeType": "com.linkedin.92ece182782ae4412e712925cd97f9fe",
+      "_type": "com.linkedin.voyager.dash.search.LazyLoadedActions",
+      "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_jobPosting:4267730619,JOBS,SEARCH_SRP)"
+    },
+    "secondarySubtitle": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "India (Remote)",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "_type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+    "navigationUrl": "https://www.linkedin.com/jobs/view/4267730619/?refId=a80731b3-5045-4b72-8c31-76952b830428&trackingId=HFbWogFrSTSLc0qUK%2F%2BSUA%3D%3D",
+    "entityEmbeddedObject": null,
+    "unreadIndicatorDetails": null,
+    "_recipeType": "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109",
+    "target": null,
+    "actorTrackingUrn": null,
+    "navigationContext": {
+      "_type": "com.linkedin.voyager.dash.search.NavigationContext",
+      "openExternally": false,
+      "_recipeType": "com.linkedin.55ee9afd4182671fe7e271f615659525",
+      "url": "https://www.linkedin.com/jobs/view/4267730619/?refId=a80731b3-5045-4b72-8c31-76952b830428&trackingId=HFbWogFrSTSLc0qUK%2F%2BSUA%3D%3D"
+    }
+  },
+  {
+    "template": "UNIVERSAL",
+    "actorNavigationContext": null,
+    "trackingUrn": "urn:li:job:4265096206",
+    "controlName": null,
+    "interstitialComponent": null,
+    "primaryActions": [],
+    "entityCustomTrackingInfo": null,
+    "title": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "Junior Python Developer",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "overflowActions": [],
+    "searchActionType": null,
+    "actorInsights": [],
+    "insightsResolutionResults": [
+      {
+        "jobPostingInsight": null,
+        "relationshipsInsight": null,
+        "serviceProviderRatingInsight": null,
+        "simpleInsight": {
+          "searchActionType": null,
+          "image": {
+            "_type": "com.linkedin.voyager.dash.common.image.ImageViewModel",
+            "attributes": [
+              {
+                "scalingType": null,
+                "_type": "com.linkedin.voyager.dash.common.image.ImageAttribute",
+                "detailData": {
+                  "profilePictureWithoutFrame": null,
+                  "profilePictureWithRingStatus": null,
+                  "companyLogo": null,
+                  "icon": null,
+                  "systemImage": "SYS_ICN_RESPONSIVE_MEDIUM",
+                  "nonEntityGroupLogo": null,
+                  "vectorImage": null,
+                  "nonEntityProfessionalEventLogo": null,
+                  "profilePicture": null,
+                  "imageUrl": null,
+                  "professionalEventLogo": null,
+                  "nonEntityCompanyLogo": null,
+                  "nonEntitySchoolLogo": null,
+                  "groupLogo": null,
+                  "schoolLogo": null,
+                  "ghostImage": null,
+                  "nonEntityProfilePicture": null
+                },
+                "tintColor": "SIGNAL_POSITIVE",
+                "_recipeType": "com.linkedin.eb94fbb1518f790c4545aafdf571c64e",
+                "tapTargets": [],
+                "displayAspectRatio": null
+              }
+            ],
+            "actionTarget": null,
+            "accessibilityTextAttributes": [],
+            "_recipeType": "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b",
+            "totalCount": null,
+            "accessibilityText": "Actively reviewing applicants"
+          },
+          "subtitle": null,
+          "_type": "com.linkedin.voyager.dash.search.SimpleInsight",
+          "controlName": null,
+          "navigationUrl": null,
+          "title": {
+            "textDirection": "USER_LOCALE",
+            "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+            "text": "Actively reviewing applicants",
+            "attributesV2": [],
+            "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+            "accessibilityTextAttributesV2": [],
+            "accessibilityText": null
+          },
+          "_recipeType": "com.linkedin.bd9a707a5b119c1f331373113f57344a"
+        },
+        "jobPostingFooterInsight": null,
+        "socialActivityCountsInsight": null,
+        "labelsInsight": null
+      },
+      {
+        "jobPostingInsight": null,
+        "relationshipsInsight": null,
+        "serviceProviderRatingInsight": null,
+        "simpleInsight": null,
+        "jobPostingFooterInsight": {
+          "_type": "com.linkedin.voyager.dash.jobs.JobPostingCard",
+          "footerItems": [
+            {
+              "_type": "com.linkedin.voyager.dash.jobs.JobPostingCardFooterItem",
+              "text": null,
+              "type": "LISTED_DATE",
+              "timeAt": 1752216199000,
+              "_recipeType": "com.linkedin.ae028897a212c87f2a4f1a573b71652d"
+            },
+            {
+              "_type": "com.linkedin.voyager.dash.jobs.JobPostingCardFooterItem",
+              "text": {
+                "textDirection": "USER_LOCALE",
+                "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+                "text": "Easy Apply",
+                "attributesV2": [],
+                "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null
+              },
+              "type": "EASY_APPLY_TEXT",
+              "_recipeType": "com.linkedin.ae028897a212c87f2a4f1a573b71652d",
+              "timeAt": null
+            }
+          ],
+          "_recipeType": "com.linkedin.791d0c903911aab58f40e6744715af71",
+          "entityUrn": "urn:li:fsd_jobPostingCard:(4265096206,BLENDED_SEARCH)"
+        },
+        "socialActivityCountsInsight": null,
+        "labelsInsight": null
+      }
+    ],
+    "badgeIcon": null,
+    "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_jobPosting:4265096206,SEARCH_SRP,DEFAULT)",
+    "showAdditionalCluster": false,
+    "ringStatus": null,
+    "primarySubtitle": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "GradXpert",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "badgeText": null,
+    "trackingId": "7QSIoG2yTxaFwmb0u5wHtQ==",
+    "actorNavigationUrl": null,
+    "addEntityToSearchHistory": false,
+    "summary": null,
+    "image": {
+      "_type": "com.linkedin.voyager.dash.common.image.ImageViewModel",
+      "attributes": [
+        {
+          "scalingType": null,
+          "_type": "com.linkedin.voyager.dash.common.image.ImageAttribute",
+          "detailData": {
+            "profilePictureWithoutFrame": null,
+            "profilePictureWithRingStatus": null,
+            "companyLogo": null,
+            "icon": null,
+            "systemImage": null,
+            "nonEntityGroupLogo": null,
+            "vectorImage": null,
+            "nonEntityProfessionalEventLogo": null,
+            "profilePicture": null,
+            "imageUrl": null,
+            "professionalEventLogo": null,
+            "nonEntityCompanyLogo": {
+              "_type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo",
+              "company": {
+                "_recipeType": "com.linkedin.2c2374bef3eaba3e079b4a11e2f7bea8",
+                "_type": "com.linkedin.voyager.dash.organization.Company",
+                "entityUrn": "urn:li:fsd_company:105280116"
+              },
+              "_recipeType": "com.linkedin.3be27b5a0eb7edd91e98b14c0290096c",
+              "vectorImage": {
+                "_type": "com.linkedin.common.VectorImage",
+                "attribution": null,
+                "_recipeType": "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9",
+                "digitalmediaAsset": null,
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "_type": "com.linkedin.common.VectorArtifact",
+                    "_recipeType": "com.linkedin.f0f435b4425ee2990eba8f0a4d614944",
+                    "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/D560BAQFScKoYaxdoUg/company-logo_100_100/company-logo_100_100/0/1737107649135/gradxpert_logo?e=1755734400&v=beta&t=R__U1cR2hClxcXY7lS4_Cj9mfoX1aisiUtmu4xE6scA",
+                    "expiresAt": 1755734400000,
+                    "height": 100
+                  }
+                ],
+                "rootUrl": ""
+              }
+            },
+            "nonEntitySchoolLogo": null,
+            "groupLogo": null,
+            "schoolLogo": null,
+            "ghostImage": null,
+            "nonEntityProfilePicture": null
+          },
+          "tintColor": null,
+          "_recipeType": "com.linkedin.eb94fbb1518f790c4545aafdf571c64e",
+          "tapTargets": [],
+          "displayAspectRatio": null
+        }
+      ],
+      "actionTarget": null,
+      "_recipeType": "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b",
+      "accessibilityTextAttributes": [],
+      "totalCount": null,
+      "accessibilityText": "Junior Python Developer"
+    },
+    "lazyLoadedActions": {
+      "_recipeType": "com.linkedin.92ece182782ae4412e712925cd97f9fe",
+      "_type": "com.linkedin.voyager.dash.search.LazyLoadedActions",
+      "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_jobPosting:4265096206,JOBS,SEARCH_SRP)"
+    },
+    "secondarySubtitle": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "Greater Kolkata Area (Remote)",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "_type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+    "navigationUrl": "https://www.linkedin.com/jobs/view/4265096206/?refId=a80731b3-5045-4b72-8c31-76952b830428&trackingId=7QSIoG2yTxaFwmb0u5wHtQ%3D%3D",
+    "entityEmbeddedObject": null,
+    "unreadIndicatorDetails": null,
+    "_recipeType": "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109",
+    "target": null,
+    "actorTrackingUrn": null,
+    "navigationContext": {
+      "_type": "com.linkedin.voyager.dash.search.NavigationContext",
+      "openExternally": false,
+      "_recipeType": "com.linkedin.55ee9afd4182671fe7e271f615659525",
+      "url": "https://www.linkedin.com/jobs/view/4265096206/?refId=a80731b3-5045-4b72-8c31-76952b830428&trackingId=7QSIoG2yTxaFwmb0u5wHtQ%3D%3D"
+    }
+  },
+  {
+    "template": "UNIVERSAL",
+    "actorNavigationContext": null,
+    "trackingUrn": "urn:li:job:4267097186",
+    "controlName": null,
+    "interstitialComponent": null,
+    "primaryActions": [],
+    "entityCustomTrackingInfo": null,
+    "title": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "Python Developer",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "overflowActions": [],
+    "searchActionType": null,
+    "actorInsights": [],
+    "insightsResolutionResults": [
+      {
+        "jobPostingInsight": null,
+        "relationshipsInsight": null,
+        "serviceProviderRatingInsight": null,
+        "simpleInsight": null,
+        "jobPostingFooterInsight": {
+          "_type": "com.linkedin.voyager.dash.jobs.JobPostingCard",
+          "footerItems": [
+            {
+              "_type": "com.linkedin.voyager.dash.jobs.JobPostingCardFooterItem",
+              "text": null,
+              "type": "LISTED_DATE",
+              "timeAt": 1752665926000,
+              "_recipeType": "com.linkedin.ae028897a212c87f2a4f1a573b71652d"
+            }
+          ],
+          "_recipeType": "com.linkedin.791d0c903911aab58f40e6744715af71",
+          "entityUrn": "urn:li:fsd_jobPostingCard:(4267097186,BLENDED_SEARCH)"
+        },
+        "socialActivityCountsInsight": null,
+        "labelsInsight": null
+      }
+    ],
+    "badgeIcon": null,
+    "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_jobPosting:4267097186,SEARCH_SRP,DEFAULT)",
+    "showAdditionalCluster": false,
+    "ringStatus": null,
+    "primarySubtitle": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "Rejoicehub LLP",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "badgeText": null,
+    "trackingId": "+H6MGZKSQqud93+wkpMxbw==",
+    "actorNavigationUrl": null,
+    "addEntityToSearchHistory": false,
+    "summary": null,
+    "image": {
+      "_type": "com.linkedin.voyager.dash.common.image.ImageViewModel",
+      "attributes": [
+        {
+          "scalingType": null,
+          "_type": "com.linkedin.voyager.dash.common.image.ImageAttribute",
+          "detailData": {
+            "profilePictureWithoutFrame": null,
+            "profilePictureWithRingStatus": null,
+            "companyLogo": null,
+            "icon": null,
+            "systemImage": null,
+            "nonEntityGroupLogo": null,
+            "vectorImage": null,
+            "nonEntityProfessionalEventLogo": null,
+            "profilePicture": null,
+            "imageUrl": null,
+            "professionalEventLogo": null,
+            "nonEntityCompanyLogo": {
+              "_type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo",
+              "company": {
+                "_recipeType": "com.linkedin.2c2374bef3eaba3e079b4a11e2f7bea8",
+                "_type": "com.linkedin.voyager.dash.organization.Company",
+                "entityUrn": "urn:li:fsd_company:14599235"
+              },
+              "_recipeType": "com.linkedin.3be27b5a0eb7edd91e98b14c0290096c",
+              "vectorImage": {
+                "_type": "com.linkedin.common.VectorImage",
+                "attribution": null,
+                "_recipeType": "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9",
+                "digitalmediaAsset": null,
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "_type": "com.linkedin.common.VectorArtifact",
+                    "_recipeType": "com.linkedin.f0f435b4425ee2990eba8f0a4d614944",
+                    "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/D4D0BAQHYF6FVWQEV6A/company-logo_100_100/company-logo_100_100/0/1695389012867/rejoicehub_logo?e=1755734400&v=beta&t=52IDQ1hnjvgMnJBGK501Z_HjTchU74A0kABFCVQd1dc",
+                    "expiresAt": 1755734400000,
+                    "height": 100
+                  }
+                ],
+                "rootUrl": ""
+              }
+            },
+            "nonEntitySchoolLogo": null,
+            "groupLogo": null,
+            "schoolLogo": null,
+            "ghostImage": null,
+            "nonEntityProfilePicture": null
+          },
+          "tintColor": null,
+          "_recipeType": "com.linkedin.eb94fbb1518f790c4545aafdf571c64e",
+          "tapTargets": [],
+          "displayAspectRatio": null
+        }
+      ],
+      "actionTarget": null,
+      "_recipeType": "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b",
+      "accessibilityTextAttributes": [],
+      "totalCount": null,
+      "accessibilityText": "Python Developer"
+    },
+    "lazyLoadedActions": {
+      "_recipeType": "com.linkedin.92ece182782ae4412e712925cd97f9fe",
+      "_type": "com.linkedin.voyager.dash.search.LazyLoadedActions",
+      "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_jobPosting:4267097186,JOBS,SEARCH_SRP)"
+    },
+    "secondarySubtitle": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "Surat, Gujarat, India",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "_type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+    "navigationUrl": "https://www.linkedin.com/jobs/view/4267097186/?refId=a80731b3-5045-4b72-8c31-76952b830428&trackingId=%2BH6MGZKSQqud93%2BwkpMxbw%3D%3D",
+    "entityEmbeddedObject": null,
+    "unreadIndicatorDetails": null,
+    "_recipeType": "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109",
+    "target": null,
+    "actorTrackingUrn": null,
+    "navigationContext": {
+      "_type": "com.linkedin.voyager.dash.search.NavigationContext",
+      "openExternally": false,
+      "_recipeType": "com.linkedin.55ee9afd4182671fe7e271f615659525",
+      "url": "https://www.linkedin.com/jobs/view/4267097186/?refId=a80731b3-5045-4b72-8c31-76952b830428&trackingId=%2BH6MGZKSQqud93%2BwkpMxbw%3D%3D"
+    }
+  },
+  {
+    "template": "UNIVERSAL",
+    "actorNavigationContext": null,
+    "trackingUrn": "urn:li:job:4268254457",
+    "controlName": null,
+    "interstitialComponent": null,
+    "primaryActions": [],
+    "entityCustomTrackingInfo": null,
+    "title": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "Python Developer",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "overflowActions": [],
+    "searchActionType": null,
+    "actorInsights": [],
+    "insightsResolutionResults": [
+      {
+        "jobPostingInsight": null,
+        "relationshipsInsight": null,
+        "serviceProviderRatingInsight": null,
+        "simpleInsight": {
+          "searchActionType": null,
+          "image": {
+            "_type": "com.linkedin.voyager.dash.common.image.ImageViewModel",
+            "attributes": [
+              {
+                "scalingType": null,
+                "_type": "com.linkedin.voyager.dash.common.image.ImageAttribute",
+                "detailData": {
+                  "profilePictureWithoutFrame": null,
+                  "profilePictureWithRingStatus": null,
+                  "companyLogo": null,
+                  "icon": null,
+                  "systemImage": "SYS_ICN_RESPONSIVE_MEDIUM",
+                  "nonEntityGroupLogo": null,
+                  "vectorImage": null,
+                  "nonEntityProfessionalEventLogo": null,
+                  "profilePicture": null,
+                  "imageUrl": null,
+                  "professionalEventLogo": null,
+                  "nonEntityCompanyLogo": null,
+                  "nonEntitySchoolLogo": null,
+                  "groupLogo": null,
+                  "schoolLogo": null,
+                  "ghostImage": null,
+                  "nonEntityProfilePicture": null
+                },
+                "tintColor": "SIGNAL_POSITIVE",
+                "_recipeType": "com.linkedin.eb94fbb1518f790c4545aafdf571c64e",
+                "tapTargets": [],
+                "displayAspectRatio": null
+              }
+            ],
+            "actionTarget": null,
+            "accessibilityTextAttributes": [],
+            "_recipeType": "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b",
+            "totalCount": null,
+            "accessibilityText": "Company review time is typically 1 week"
+          },
+          "subtitle": null,
+          "_type": "com.linkedin.voyager.dash.search.SimpleInsight",
+          "controlName": null,
+          "navigationUrl": null,
+          "title": {
+            "textDirection": "USER_LOCALE",
+            "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+            "text": "Company review time is typically 1 week",
+            "attributesV2": [],
+            "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+            "accessibilityTextAttributesV2": [],
+            "accessibilityText": null
+          },
+          "_recipeType": "com.linkedin.bd9a707a5b119c1f331373113f57344a"
+        },
+        "jobPostingFooterInsight": null,
+        "socialActivityCountsInsight": null,
+        "labelsInsight": null
+      },
+      {
+        "jobPostingInsight": null,
+        "relationshipsInsight": null,
+        "serviceProviderRatingInsight": null,
+        "simpleInsight": null,
+        "jobPostingFooterInsight": {
+          "_type": "com.linkedin.voyager.dash.jobs.JobPostingCard",
+          "footerItems": [
+            {
+              "_type": "com.linkedin.voyager.dash.jobs.JobPostingCardFooterItem",
+              "text": null,
+              "type": "LISTED_DATE",
+              "timeAt": 1752759305000,
+              "_recipeType": "com.linkedin.ae028897a212c87f2a4f1a573b71652d"
+            },
+            {
+              "_type": "com.linkedin.voyager.dash.jobs.JobPostingCardFooterItem",
+              "text": {
+                "textDirection": "USER_LOCALE",
+                "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+                "text": "Easy Apply",
+                "attributesV2": [],
+                "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+                "accessibilityTextAttributesV2": [],
+                "accessibilityText": null
+              },
+              "type": "EASY_APPLY_TEXT",
+              "_recipeType": "com.linkedin.ae028897a212c87f2a4f1a573b71652d",
+              "timeAt": null
+            }
+          ],
+          "_recipeType": "com.linkedin.791d0c903911aab58f40e6744715af71",
+          "entityUrn": "urn:li:fsd_jobPostingCard:(4268254457,BLENDED_SEARCH)"
+        },
+        "socialActivityCountsInsight": null,
+        "labelsInsight": null
+      }
+    ],
+    "badgeIcon": null,
+    "entityUrn": "urn:li:fsd_entityResultViewModel:(urn:li:fsd_jobPosting:4268254457,SEARCH_SRP,DEFAULT)",
+    "showAdditionalCluster": false,
+    "ringStatus": null,
+    "primarySubtitle": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "People Prime Worldwide",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "badgeText": null,
+    "trackingId": "y/7dlaEER+y4Eso8dcr/sA==",
+    "actorNavigationUrl": null,
+    "addEntityToSearchHistory": false,
+    "summary": null,
+    "image": {
+      "_type": "com.linkedin.voyager.dash.common.image.ImageViewModel",
+      "attributes": [
+        {
+          "scalingType": null,
+          "_type": "com.linkedin.voyager.dash.common.image.ImageAttribute",
+          "detailData": {
+            "profilePictureWithoutFrame": null,
+            "profilePictureWithRingStatus": null,
+            "companyLogo": null,
+            "icon": null,
+            "systemImage": null,
+            "nonEntityGroupLogo": null,
+            "vectorImage": null,
+            "nonEntityProfessionalEventLogo": null,
+            "profilePicture": null,
+            "imageUrl": null,
+            "professionalEventLogo": null,
+            "nonEntityCompanyLogo": {
+              "_type": "com.linkedin.voyager.dash.common.image.NonEntityCompanyLogo",
+              "company": {
+                "_recipeType": "com.linkedin.2c2374bef3eaba3e079b4a11e2f7bea8",
+                "_type": "com.linkedin.voyager.dash.organization.Company",
+                "entityUrn": "urn:li:fsd_company:2831087"
+              },
+              "_recipeType": "com.linkedin.3be27b5a0eb7edd91e98b14c0290096c",
+              "vectorImage": {
+                "_type": "com.linkedin.common.VectorImage",
+                "attribution": null,
+                "_recipeType": "com.linkedin.28db8575bcf1c65bdc4bc15948d50ee9",
+                "digitalmediaAsset": null,
+                "artifacts": [
+                  {
+                    "width": 100,
+                    "_type": "com.linkedin.common.VectorArtifact",
+                    "_recipeType": "com.linkedin.f0f435b4425ee2990eba8f0a4d614944",
+                    "fileIdentifyingUrlPathSegment": "https://media.licdn.com/dms/image/v2/D560BAQFXMNnAtaU2qA/company-logo_100_100/company-logo_100_100/0/1738582300818/peopleprimeww_logo?e=1755734400&v=beta&t=cLwGKUq1rpjgDUN2sL6U1oosvG4uQfdFtf1D7fv6t0g",
+                    "expiresAt": 1755734400000,
+                    "height": 100
+                  }
+                ],
+                "rootUrl": ""
+              }
+            },
+            "nonEntitySchoolLogo": null,
+            "groupLogo": null,
+            "schoolLogo": null,
+            "ghostImage": null,
+            "nonEntityProfilePicture": null
+          },
+          "tintColor": null,
+          "_recipeType": "com.linkedin.eb94fbb1518f790c4545aafdf571c64e",
+          "tapTargets": [],
+          "displayAspectRatio": null
+        }
+      ],
+      "actionTarget": null,
+      "_recipeType": "com.linkedin.fe5b8a3ac5a4a165c17f53b7eae4209b",
+      "accessibilityTextAttributes": [],
+      "totalCount": null,
+      "accessibilityText": "Python Developer"
+    },
+    "lazyLoadedActions": {
+      "_recipeType": "com.linkedin.92ece182782ae4412e712925cd97f9fe",
+      "_type": "com.linkedin.voyager.dash.search.LazyLoadedActions",
+      "entityUrn": "urn:li:fsd_lazyLoadedActions:(urn:li:fsd_jobPosting:4268254457,JOBS,SEARCH_SRP)"
+    },
+    "secondarySubtitle": {
+      "textDirection": "USER_LOCALE",
+      "_type": "com.linkedin.voyager.dash.common.text.TextViewModel",
+      "text": "India (Remote)",
+      "attributesV2": [],
+      "_recipeType": "com.linkedin.6a224ca38654a84754a1eb3e97c0f846",
+      "accessibilityTextAttributesV2": [],
+      "accessibilityText": null
+    },
+    "_type": "com.linkedin.voyager.dash.search.EntityResultViewModel",
+    "navigationUrl": "https://www.linkedin.com/jobs/view/4268254457/?refId=a80731b3-5045-4b72-8c31-76952b830428&trackingId=y%2F7dlaEER%2By4Eso8dcr%2FsA%3D%3D",
+    "entityEmbeddedObject": null,
+    "unreadIndicatorDetails": null,
+    "_recipeType": "com.linkedin.cf4b25c18907ea8eafe915c8bfa24109",
+    "target": null,
+    "actorTrackingUrn": null,
+    "navigationContext": {
+      "_type": "com.linkedin.voyager.dash.search.NavigationContext",
+      "openExternally": false,
+      "_recipeType": "com.linkedin.55ee9afd4182671fe7e271f615659525",
+      "url": "https://www.linkedin.com/jobs/view/4268254457/?refId=a80731b3-5045-4b72-8c31-76952b830428&trackingId=y%2F7dlaEER%2By4Eso8dcr%2FsA%3D%3D"
+    }
+  }
+]

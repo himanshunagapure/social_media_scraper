@@ -1,0 +1,258 @@
+# Facebook Data Scraper Setup Guide
+
+## Overview
+This Facebook scraper is designed to ethically collect public data from Facebook pages and groups using the `facebook-scraper` library. It includes advanced features like proxy rotation, user-agent rotation, rate limiting, comprehensive logging, and health monitoring.
+
+## Installation
+
+### 1. Install Python Dependencies
+```bash
+pip install facebook-scraper fake-useragent requests
+```
+
+### 2. Download the Scraper
+Save the `facebook_scraper.py` file to your project directory.
+
+### 3. Set Up Configuration
+On first run, the script will create a default `config.json` file. Edit this file to customize your scraping targets and settings.
+
+## Configuration
+
+### Basic Configuration (config.json)
+```json
+{
+  "target_pages": ["example_page", "another_page"],
+  "target_groups": ["example_group"],
+  "max_posts_per_target": 50,
+  "min_delay": 5.0,
+  "max_delay": 10.0,
+  "proxy_list": [
+    "http://proxy1:port",
+    "http://proxy2:port"
+  ],
+  "output_dir": "scraped_data",
+  "log_level": "INFO",
+  "retry_attempts": 3,
+  "retry_backoff": 2.0,
+  "health_check_interval": 10,
+  "user_agent_rotation": true,
+  "proxy_rotation": true
+}
+```
+
+### Configuration Options Explained
+
+- **target_pages**: List of Facebook page names to scrape (e.g., ["nasa", "spotify"])
+- **target_groups**: List of Facebook group names to scrape
+- **max_posts_per_target**: Maximum number of posts to scrape per page/group
+- **min_delay/max_delay**: Random delay range between requests (seconds)
+- **proxy_list**: List of proxy servers (optional but recommended)
+- **output_dir**: Directory to save scraped data and logs
+- **log_level**: Logging level (DEBUG, INFO, WARNING, ERROR)
+- **retry_attempts**: Number of retry attempts for failed requests
+- **retry_backoff**: Backoff multiplier for retry delays
+- **health_check_interval**: Interval for health monitoring reports
+- **user_agent_rotation**: Enable/disable user agent rotation
+- **proxy_rotation**: Enable/disable proxy rotation
+
+## Running the Scraper
+
+### Basic Usage
+```bash
+python facebook_scraper.py
+```
+
+### Advanced Usage with Custom Config
+```bash
+python facebook_scraper.py --config custom_config.json
+```
+
+## Proxy Setup
+
+### Free Proxy Sources
+You can find free proxies from:
+- [Free Proxy List](https://www.freeproxylists.net/)
+- [ProxyScrape](https://api.proxyscrape.com/)
+- [PubProxy](http://pubproxy.com/)
+
+### Proxy Format
+Add proxies to your config file in this format:
+```json
+"proxy_list": [
+  "http://ip:port",
+  "http://username:password@ip:port",
+  "https://ip:port"
+]
+```
+
+### Proxy Testing
+The scraper automatically tests proxy health and rotates through working proxies.
+
+## Session Management
+
+### Without Login (Recommended)
+The scraper is designed to work with public data only, requiring no Facebook login. This is the safest and most ethical approach.
+
+### With Login (Optional)
+If you need to access more data, you can extend the scraper to use Facebook login:
+```python
+from facebook_scraper import set_cookies
+
+# Set cookies from your browser session
+set_cookies("path/to/cookies.txt")
+```
+
+## Output Files
+
+The scraper creates several output files:
+
+### Data Files
+- `all_scraped_data.json`: All scraped posts combined
+- `{page_name}_posts.json`: Individual page data
+- `{group_name}_posts.json`: Individual group data
+
+### Log Files
+- `scraper.log`: Detailed logging output
+- Console output: Real-time scraping progress
+
+### Data Structure
+Each scraped post contains:
+```json
+{
+  "post_id": "unique_post_id",
+  "text": "post content",
+  "time": "2025-01-01T12:00:00",
+  "image": "image_url",
+  "likes": 100,
+  "comments": 25,
+  "shares": 10,
+  "post_url": "facebook.com/post_url",
+  "page_name": "source_page",
+  "scraped_at": "2025-01-01T12:00:00"
+}
+```
+
+## Error Handling
+
+### Common Issues and Solutions
+
+1. **Rate Limiting**
+   - Increase delay values in config
+   - Use more proxies
+   - Reduce max_posts_per_target
+
+2. **Proxy Issues**
+   - Check proxy format
+   - Verify proxy is working
+   - Use different proxy sources
+
+3. **Connection Errors**
+   - Check internet connection
+   - Verify Facebook pages exist
+   - Try different user agents
+
+4. **CAPTCHA/Blocking**
+   - Use residential proxies
+   - Increase delays
+   - Rotate user agents more frequently
+
+## Best Practices
+
+### Ethical Scraping
+- Only scrape public data
+- Respect robots.txt
+- Use reasonable delays
+- Don't overload servers
+- Follow Facebook's terms of service
+
+### Performance Optimization
+- Use quality proxies
+- Monitor success rates
+- Adjust delays based on response times
+- Implement proper error handling
+
+### Data Management
+- Regular backups
+- Data validation
+- Proper encoding for international content
+- Clean up temporary files
+
+## Monitoring and Maintenance
+
+### Health Monitoring
+The scraper provides real-time health statistics:
+- Success/failure rates
+- Request timing
+- Proxy performance
+- Error patterns
+
+### Log Analysis
+Monitor logs for:
+- Blocking patterns
+- Proxy failures
+- Rate limiting
+- Data quality issues
+
+### Maintenance Tasks
+- Update proxy lists regularly
+- Monitor Facebook changes
+- Update dependencies
+- Review scraping targets
+
+## Legal Considerations
+
+- Only scrape public data
+- Respect copyright
+- Follow Facebook ToS
+- Consider data privacy laws
+- Use data responsibly
+
+## Troubleshooting
+
+### Debug Mode
+Enable debug logging:
+```json
+"log_level": "DEBUG"
+```
+
+### Test Configuration
+Test with minimal settings:
+```json
+{
+  "target_pages": ["test_page"],
+  "max_posts_per_target": 5,
+  "min_delay": 1.0,
+  "max_delay": 2.0
+}
+```
+
+### Common Command Line Options
+```bash
+# Run with verbose output
+python facebook_scraper.py --verbose
+
+# Test configuration
+python facebook_scraper.py --test-config
+
+# Dry run (no actual scraping)
+python facebook_scraper.py --dry-run
+```
+
+## Support
+
+For issues or questions:
+1. Check the logs for error details
+2. Verify configuration settings
+3. Test with minimal configuration
+4. Review Facebook's current policies
+5. Update dependencies if needed
+
+## Updates and Maintenance
+
+Keep your scraper updated:
+- Monitor facebook-scraper library updates
+- Update proxy lists regularly
+- Review Facebook policy changes
+- Test functionality periodically
+
+Remember: Web scraping policies change frequently. Always verify that your scraping activities comply with current terms of service and local laws.

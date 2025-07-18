@@ -1,0 +1,6 @@
+{
+    "min_delay": 5,
+    "max_delay": 10,
+    "max_requests_per_hour": 50,
+    "proxy": null
+  }

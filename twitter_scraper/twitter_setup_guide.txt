@@ -1,0 +1,351 @@
+# Twitter Scraper Setup Guide
+
+## 1. Prerequisites
+
+### System Requirements
+- Python 3.8 or higher
+- pip package manager
+- Internet connection
+- Twitter/X accounts (multiple recommended)
+
+### Required Packages Installation
+
+```bash
+# Install required packages
+pip install twscrape aiofiles pandas fake-useragent httpx
+
+# Alternative: Install from requirements.txt
+pip install -r requirements.txt
+```
+
+Create a `requirements.txt` file with:
+```txt
+twscrape>=0.1.0
+aiofiles>=23.0.0
+pandas>=1.5.0
+fake-useragent>=1.4.0
+httpx>=0.24.0
+asyncio
+```
+
+## 2. Account Setup
+
+### Option A: Using Cookies (Recommended - More Stable)
+
+1. **Get Twitter Account Cookies:**
+   - Login to Twitter in your browser
+   - Open Developer Tools (F12)
+   - Go to Application/Storage → Cookies → https://twitter.com
+   - Copy relevant cookies (auth_token, ct0, etc.)
+   - Format: `"auth_token=abc123; ct0=xyz789; ..."`
+
+2. **Account Format:**
+   ```python
+   # Example cookies string
+   cookies = "auth_token=abc123; ct0=xyz789; personalization_id=v1_abc"
+   
+   await scraper.add_account(
+       username="your_username",
+       password="your_password", 
+       email="your_email@example.com",
+       email_password="your_email_password",
+       cookies=cookies
+   )
+   ```
+
+### Option B: Username/Password (Less Stable)
+
+```python
+await scraper.add_account(
+    username="your_username",
+    password="your_password",
+    email="your_email@example.com", 
+    email_password="your_email_password"
+)
+```
+
+## 3. Configuration File Setup
+
+Create `scraper_config.json`:
+
+```json
+{
+  "min_delay": 5,
+  "max_delay": 10,
+  "max_requests_per_hour": 100,
+  "retry_attempts": 3,
+  "retry_delay": 30,
+  "user_agents": [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36"
+  ],
+  "proxies": [
+    "http://username:password@proxy1.com:8080",
+    "http://username:password@proxy2.com:8080"
+  ],
+  "accounts": []
+}
+```
+
+## 4. Command Line Setup (Alternative)
+
+### Add Accounts via CLI
+
+```bash
+# Create accounts file (accounts.txt)
+username1:password1:email1@example.com:email_password1:cookies1
+username2:password2:email2@example.com:email_password2:cookies2
+
+# Add accounts to database
+twscrape add_accounts accounts.txt username:password:email:email_password:cookies
+
+# Login accounts
+twscrape login_accounts
+
+# For manual email verification
+twscrape login_accounts --manual
+```
+
+### CLI Usage Examples
+
+```bash
+# Search tweets
+twscrape search "python programming" --limit=50 > tweets.json
+
+# Get user info
+twscrape user_by_login elonmusk > user_info.json
+
+# Get user tweets
+twscrape user_tweets USER_ID --limit=100 > user_tweets.json
+
+# Get followers
+twscrape followers USER_ID --limit=50 > followers.json
+```
+
+## 5. Proxy Setup
+
+### Environment Variable Method
+```bash
+export TWS_PROXY=http://username:password@proxy.com:8080
+```
+
+### In Code Method
+```python
+# Global proxy
+scraper = TwitterScraper(proxy="http://username:password@proxy.com:8080")
+
+# Per-account proxy
+await scraper.add_account(
+    username="user1",
+    password="pass1",
+    email="email1@example.com",
+    email_password="email_pass1",
+    proxy="http://username:password@proxy.com:8080"
+)
+```
+
+### Proxy Services (Recommended)
+- **Residential Proxies**: Better for avoiding detection
+- **Datacenter Proxies**: Faster but more detectable
+- **Free Proxies**: Not recommended for production
+
+## 6. Security Best Practices
+
+### Rate Limiting
+```python
+# Configure in scraper_config.json
+{
+  "min_delay": 5,           # Minimum delay between requests
+  "max_delay": 10,          # Maximum delay between requests  
+  "max_requests_per_hour": 100,  # Hourly request limit
+  "retry_attempts": 3,      # Number of retry attempts
+  "retry_delay": 30         # Delay between retries
+}
+```
+
+### Error Handling
+- **Captcha Detection**: Automatic retry with delays
+- **Rate Limit Handling**: Automatic backoff
+- **Account Rotation**: Multiple accounts for load distribution
+- **Session Persistence**: Cached login sessions
+
+### IP Rotation
+```python
+# Multiple proxies in config
+"proxies": [
+    "http://user:pass@proxy1.com:8080",
+    "http://user:pass@proxy2.com:8080",
+    "http://user:pass@proxy3.com:8080"
+]
+```
+
+## 7. Usage Examples
+
+### Basic Tweet Search
+```python
+import asyncio
+from twitter_scraper import TwitterScraper
+
+async def search_tweets():
+    scraper = TwitterScraper()
+    
+    # Add your accounts here
+    await scraper.add_account("username", "password", "email", "email_pass", cookies="...")
+    await scraper.login_accounts()
+    
+    # Search tweets
+    tweets = await scraper.search_tweets("AI programming", limit=100)
+    await scraper.save_to_json(tweets, "ai_tweets.json")
+    
+    await scraper.close()
+
+# Run
+asyncio.run(search_tweets())
+```
+
+### User Analysis
+```python
+async def analyze_user():
+    scraper = TwitterScraper()
+    
+    # Setup accounts...
+    
+    # Get user info
+    user = await scraper.get_user_info("elonmusk")
+    
+    # Get user tweets
+    tweets = await scraper.get_user_tweets(user['id'], limit=200)
+    
+    # Get followers
+    followers = await scraper.get_followers(user['id'], limit=1000)
+    
+    # Save data
+    await scraper.save_to_json({
+        'user': user,
+        'tweets': tweets,
+        'followers': followers
+    }, "user_analysis.json")
+    
+    await scraper.close()
+```
+
+## 8. Environment Variables
+
+```bash
+# Set environment variables
+export TWS_PROXY=http://username:password@proxy.com:8080
+export TWS_WAIT_EMAIL_CODE=30
+export TWS_RAISE_WHEN_NO_ACCOUNT=false
+```
+
+## 9. Database Management
+
+### Account Database
+- **Location**: `accounts.db` (SQLite)
+- **Contains**: Account credentials, session data, usage statistics
+- **Backup**: Regularly backup the database file
+
+### Account Management
+```python
+# Check account status
+accounts = await scraper.api.pool.accounts()
+for account in accounts:
+    print(f"{account.username}: {account.active}")
+
+# Relogin specific accounts
+await scraper.api.pool.relogin(["username1", "username2"])
+```
+
+## 10. Monitoring and Logging
+
+### Log Files
+- `twitter_scraper.log`: Main application log
+- Configure log levels: DEBUG, INFO, WARNING, ERROR
+
+### Monitoring
+```python
+# Check account statistics
+stats = scraper.get_account_stats()
+print(json.dumps(stats, indent=2))
+
+# Monitor request rates
+print(f"Requests made: {scraper.request_count}")
+print(f"Last request: {scraper.last_request_time}")
+```
+
+## 11. Common Issues and Solutions
+
+### Issue: Account Suspended
+- **Solution**: Use cookie-based authentication, rotate accounts, use proxies
+
+### Issue: Rate Limiting
+- **Solution**: Increase delays, reduce request frequency, use multiple accounts
+
+### Issue: Captcha Challenges
+- **Solution**: Use residential proxies, implement captcha solving services
+
+### Issue: Email Verification
+- **Solution**: Use `--manual` flag for manual code entry
+
+## 12. Legal and Ethical Considerations
+
+### Compliance
+- **Robots.txt**: Respect Twitter's robots.txt
+- **Rate Limits**: Don't overwhelm servers
+- **Public Data Only**: Only scrape publicly available data
+- **Terms of Service**: Review Twitter's ToS regularly
+
+### Best Practices
+- Use reasonable delays between requests
+- Don't scrape personal/private information
+- Respect user privacy
+- Monitor your scraping impact
+
+## 13. Production Deployment
+
+### Server Setup
+```bash
+# Install on server
+pip install -r requirements.txt
+
+# Run as service
+nohup python twitter_scraper.py > scraper.log 2>&1 &
+
+# Or use systemd service
+sudo systemctl enable twitter-scraper
+sudo systemctl start twitter-scraper
+```
+
+### Monitoring
+- Set up log rotation
+- Monitor disk space
+- Track success/failure rates
+- Set up alerts for issues
+
+## 14. Troubleshooting
+
+### Debug Mode
+```python
+scraper = TwitterScraper(log_level="DEBUG")
+```
+
+### Common Commands
+```bash
+# Check account status
+twscrape accounts
+
+# Test connection
+twscrape user_by_login twitter
+
+# Re-login failed accounts
+twscrape relogin_failed --manual
+```
+
+### Performance Tips
+- Use SSD for database storage
+- Implement connection pooling
+- Use async/await properly
+- Monitor memory usage
+
+This setup guide provides everything you need to get started with secure, efficient Twitter scraping using the provided scraper code.

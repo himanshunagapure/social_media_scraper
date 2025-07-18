@@ -1,0 +1,14 @@
+{
+  "min_delay": 5,
+  "max_delay": 10,
+  "max_requests_per_hour": 100,
+  "retry_attempts": 3,
+  "retry_delay": 30,
+  "user_agents": [
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36"
+  ],
+  "proxies": [],
+  "accounts": []
+}

@@ -1,0 +1,37 @@
+{
+  "uuids": {
+    "phone_id": "bec9bf12-5508-4885-a13d-ebbeab42a1e0",
+    "uuid": "85f99edb-2c55-4eba-99c6-2deb9ab50b11",
+    "client_session_id": "699ce9d3-697a-4197-93c7-f3887fc53a50",
+    "advertising_id": "11b8c130-bc0f-4d14-883f-512f755c1d8a",
+    "android_device_id": "android-091045ea033d6fdb",
+    "request_id": "9602d8fd-9794-44a3-a2c8-0b33f12cf186",
+    "tray_session_id": "c2c281f5-a706-4882-ba42-8bb861525529"
+  },
+  "mid": "aHiKxQABAAGoGCj85IyjkXN6P-J7",
+  "ig_u_rur": null,
+  "ig_www_claim": null,
+  "authorization_data": {
+    "ds_user_id": "76082949979",
+    "sessionid": "76082949979%3AGZSxrqEUXi6IFM%3A16%3AAYeyCKLoeriDls4uwuG0Ef7VRX2KELhEiFCLER8UIA"
+  },
+  "cookies": {},
+  "last_login": 1752730339.1355653,
+  "device_settings": {
+    "app_version": "269.0.0.18.75",
+    "android_version": 26,
+    "android_release": "8.0.0",
+    "dpi": "480dpi",
+    "resolution": "1080x1920",
+    "manufacturer": "OnePlus",
+    "device": "OnePlus 6T",
+    "model": "ONEPLUS A6013",
+    "cpu": "qcom",
+    "version_code": "314665256"
+  },
+  "user_agent": "Instagram 269.0.0.18.75 Android (26/8.0.0; 480dpi; 1080x1920; OnePlus; OnePlus 6T; ONEPLUS A6013; qcom; en_US; 314665256)",
+  "country": "US",
+  "country_code": 1,
+  "locale": "en_US",
+  "timezone_offset": -14400
+}

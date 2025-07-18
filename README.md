@@ -128,6 +128,8 @@ This document summarizes the methods, libraries, and official APIs used for scra
   - No support for private posts/groups without login
   - Designed for research/small-scale use
 
+Used this but didn't get any data.
+
 ### Facebook Graph API (Official Method)
 - **What it provides:**
   - Fetch data like posts, comments, photos from profiles, pages, or groups
@@ -148,7 +150,7 @@ This document summarizes the methods, libraries, and official APIs used for scra
 ## LinkedIn
 
 ### linkedin-api (Unofficial)
-- **Login Required:** Yes — You need to log in with a valid LinkedIn account (email + password)
+- **Login Required:** Yes! You need to log in with a valid LinkedIn account (email + password)
 - **Data You Can Fetch:**
   - Profiles (public & private fields)
   - Contact info (if available)
@@ -159,7 +161,7 @@ This document summarizes the methods, libraries, and official APIs used for scra
   - Search for people
   - Not able to scrape multiple profiles from search
 - **Cons & Limitations:**
-  - Unofficial — violates LinkedIn Terms of Service
+  - Unofficial, violates LinkedIn Terms of Service
   - LinkedIn often changes internal API endpoints, so features can break often
   - High risk of account suspension, CAPTCHA, or cookie expiration
   - Requires careful handling of cookies, headers, rate-limiting

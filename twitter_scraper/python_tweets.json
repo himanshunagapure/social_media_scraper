@@ -1,0 +1,339 @@
+[
+  {
+    "id": 1945378087962558827,
+    "username": "Nsovoswangs",
+    "display_name": "Nsovo W. Maswanganyi🇿🇦",
+    "content": "#12 Random Code Review: Does this pass your inspection or NAH?\n\nNew short videos every Monday and Wednesday, and long-form videos on Friday.\n\nHashtags:\n#RandomCodeReview#code #coding #java #programming #C# #learntocode #howtocode #python#javascript #webdevelopment#computerscience https://t.co/QRe3ohOiVX",
+    "created_at": "2025-07-16T07:00:54+00:00",
+    "retweet_count": 0,
+    "like_count": 0,
+    "reply_count": 0,
+    "quote_count": 0,
+    "lang": "en",
+    "url": "https://x.com/Nsovoswangs/status/1945378087962558827",
+    "media": [
+      null
+    ],
+    "hashtags": [
+      "coding",
+      "java",
+      "programming",
+      "learntocode",
+      "howtocode"
+    ],
+    "mentions": []
+  },
+  {
+    "id": 1945378065498169564,
+    "username": "details_with_ai",
+    "display_name": "Rasel Hosen",
+    "content": "Coding games are the best way to learn coding.\n\nYou can improve in CSS, Python, React, JavaScript, and Blockchain through fun games.\n\nTop 13 Robot Game for Learning Programming Concepts: 👇 https://t.co/7flsDJubUq",
+    "created_at": "2025-07-16T07:00:48+00:00",
+    "retweet_count": 2,
+    "like_count": 4,
+    "reply_count": 2,
+    "quote_count": 1,
+    "lang": "en",
+    "url": "https://x.com/details_with_ai/status/1945378065498169564",
+    "media": [
+      null
+    ],
+    "hashtags": [],
+    "mentions": []
+  },
+  {
+    "id": 1945374429535740116,
+    "username": "GoSkunkBearGo",
+    "display_name": "SkunkBear Consulting",
+    "content": "Gemini decode : keypoints:\n * Monorepo and Python Dominance: OpenAI primarily uses a \"monorepo,\" which means all their code is stored in a single, large repository. The dominant programming language is Python, though Rust and Golang are also used for specific services. This indicates a preference for Python's flexibility and rapid development capabilities, but also suggests that the single large repository approach can lead to \"strange-looking code\" due to various coding styles and libraries.\n * Azure Infrastructure: OpenAI runs entirely on Microsoft Azure. The writer specifically mentions services like Azure Kubernetes Service (for managing containerized applications), CosmosDB (a NoSQL database), and BlobStore (for object storage). This highlights OpenAI's reliance on cloud computing and specifically their partnership with Microsoft, which is a major investor and collaborator. The writer implies that while these services are robust, they don't have direct equivalents to some of the highly specialized internal systems he might have encountered at Google or Amazon, suggesting a different approach to infrastructure scaling.\n * \"Meta-like\" Pipeline and In-house Development: The writer notes that OpenAI's development pipeline is \"very significant Meta\" and that OpenAI \"resembles early Meta.\" This suggests that OpenAI has adopted some organizational and technical approaches similar to those used by Meta in its formative years, particularly in terms of rapid iteration and scaling. He also points out \"in-house re-implementation of TAO,\" which implies OpenAI builds custom solutions for specific needs, rather than solely relying on off-the-shelf tools, echoing a common practice in large tech companies.\n * Decentralized Decision-Making and Code Ownership: A significant point is that \"decisions are typically made by whichever team plans to do the work,\" leading to a \"strong bias for action\" and potentially \"duplicate parts of the codebase.\" This suggests a highly empowered, decentralized team structure, where individual teams have a lot of autonomy. While this can lead to faster execution, it can also result in less architectural coherence and redundant efforts, which the writer seems to imply is a characteristic of OpenAI's engineering culture.\n * ChatGPT's Codebase and Performance Challenges: The \"chat runs really deep\" comment suggests that ChatGPT's core logic is deeply integrated into the codebase. The writer also alludes to \"test cases even running in parallel and factoring in a subset of dependencies could take ~30m to run on GPUs,\" indicating that the complexity of the codebase and the computational demands of their models present significant engineering challenges, even if they are ultimately solvable.\nIs it constructive?\nFrom an engineering perspective, this piece is highly constructive. It provides valuable insights into the architectural choices, cultural norms, and technical challenges within OpenAI. For someone with a programming background, it offers a glimpse into how a leading AI company operates at a fundamental level.\nIs it constructive for OpenAI?\nYes, it can be. While it's an external perspective from a former employee, it provides an unvarnished look at their internal workings. For OpenAI, this type of feedback, even if implicitly critical of certain aspects, can be valuable for self-reflection and improvement. It highlights areas where their unique approaches might lead to trade-offs (e.g., decentralized decision-making leading to code duplication).\nWho is OpenAI concerned about?\nBased on this text, OpenAI doesn't appear to be \"concerned about\" a specific competitor in the traditional sense, but rather about:\n * Scaling and Efficiency: The discussions around the monorepo, Azure infrastructure, and the challenges of running tests suggest a constant focus on scaling their operations and ensuring the efficiency of their massive AI models.",
+    "created_at": "2025-07-16T06:46:21+00:00",
+    "retweet_count": 0,
+    "like_count": 0,
+    "reply_count": 0,
+    "quote_count": 0,
+    "lang": "en",
+    "url": "https://x.com/GoSkunkBearGo/status/1945374429535740116",
+    "media": [
+      null
+    ],
+    "hashtags": [],
+    "mentions": [
+      "deedydas"
+    ]
+  },
+  {
+    "id": 1945369309456355809,
+    "username": "unitedsol",
+    "display_name": "United Sol",
+    "content": "The world may not hear them coming, but they’re rewriting everything.\nRevolution doesn't always shout — it compiles.\n👏 Kudos to the coders — the quiet architects of tomorrow.\n\n#unitedsol #coding #tech #programming #Html #Css #Java #javascript #python #webdevelopment https://t.co/liVuaNvgRr",
+    "created_at": "2025-07-16T06:26:01+00:00",
+    "retweet_count": 0,
+    "like_count": 0,
+    "reply_count": 0,
+    "quote_count": 0,
+    "lang": "en",
+    "url": "https://x.com/unitedsol/status/1945369309456355809",
+    "media": [
+      null
+    ],
+    "hashtags": [
+      "unitedsol",
+      "coding",
+      "tech",
+      "programming",
+      "Html",
+      "Css",
+      "Java",
+      "javascript",
+      "python",
+      "webdevelopment"
+    ],
+    "mentions": []
+  },
+  {
+    "id": 1945368308049699024,
+    "username": "jayitabhattac11",
+    "display_name": "Jayita Bhattacharyya",
+    "content": "Join us for a bunch of interesting talks this Saturday @ MeshDefend \n* Python &amp; AI Ecosystem - Ravi Chitloor  \n* Async programming in Python - Abhishek Prasad \n* Automating ML with PyCaret - @manjunath_shiva \n* MCP with agentic AI - Jagan PS",
+    "created_at": "2025-07-16T06:22:02+00:00",
+    "retweet_count": 0,
+    "like_count": 0,
+    "reply_count": 0,
+    "quote_count": 0,
+    "lang": "en",
+    "url": "https://x.com/jayitabhattac11/status/1945368308049699024",
+    "media": [
+      null
+    ],
+    "hashtags": [],
+    "mentions": [
+      "manjunath_shiva"
+    ]
+  },
+  {
+    "id": 1945361114327564558,
+    "username": "__bangpypers__",
+    "display_name": "BangPypers",
+    "content": "🚨 3 days to go!\nSee you at the @__bangpypers__  x @djangoindiaa  meetup on July 19 @ MeshDefend 🐍🔥\nExciting talks + community vibes!\n\n✅ Can’t make it? Un-RSVP to help someone on the waitlist attend.\n\n#Python #Django #Meetup #BangPypers https://t.co/IFOG8R62rd",
+    "created_at": "2025-07-16T05:53:27+00:00",
+    "retweet_count": 2,
+    "like_count": 4,
+    "reply_count": 0,
+    "quote_count": 1,
+    "lang": "en",
+    "url": "https://x.com/__bangpypers__/status/1945361114327564558",
+    "media": [
+      null
+    ],
+    "hashtags": [
+      "Python",
+      "Django",
+      "Meetup",
+      "BangPypers"
+    ],
+    "mentions": [
+      "__bangpypers__",
+      "djangoindiaa"
+    ]
+  },
+  {
+    "id": 1945366574518399436,
+    "username": "mindluster0",
+    "display_name": "Mind Luster",
+    "content": "🚀 Dive into Python Programming – Free Course with Certificate (via MindLuster)\nAre you ready to start your journey in programming? 🐍\nThe “Python” course is a comprehensive, beginner-friendly program designed for anyone keen to learn coding from scratch.\nhttps://t.co/Eu8j0b3ebV https://t.co/Y6765SRMYE",
+    "created_at": "2025-07-16T06:15:09+00:00",
+    "retweet_count": 0,
+    "like_count": 0,
+    "reply_count": 0,
+    "quote_count": 0,
+    "lang": "en",
+    "url": "https://x.com/mindluster0/status/1945366574518399436",
+    "media": [
+      null
+    ],
+    "hashtags": [],
+    "mentions": []
+  },
+  {
+    "id": 1945365144340717756,
+    "username": "dovimguimaraes",
+    "display_name": "aderaldon",
+    "content": "Start by choosing a programming language like Python or JavaScript. Use online resources like Codecademy or freeCodeCamp to learn basics. Practice regularly by building small projects and joining coding communities.",
+    "created_at": "2025-07-16T06:09:28+00:00",
+    "retweet_count": 0,
+    "like_count": 0,
+    "reply_count": 0,
+    "quote_count": 0,
+    "lang": "en",
+    "url": "https://x.com/dovimguimaraes/status/1945365144340717756",
+    "media": [
+      null
+    ],
+    "hashtags": [],
+    "mentions": []
+  },
+  {
+    "id": 1945354043645206565,
+    "username": "JohnThilen",
+    "display_name": "John Thilén",
+    "content": "@_jasonwei Then why isn't there more focus on generating formally verified software? The benchmarks for programming are all about hacking together python or typescript, rather than SPARK 2014 or similar.",
+    "created_at": "2025-07-16T05:25:21+00:00",
+    "retweet_count": 0,
+    "like_count": 0,
+    "reply_count": 0,
+    "quote_count": 0,
+    "lang": "en",
+    "url": "https://x.com/JohnThilen/status/1945354043645206565",
+    "media": [
+      null
+    ],
+    "hashtags": [],
+    "mentions": [
+      "_jasonwei"
+    ]
+  },
+  {
+    "id": 1945351652506288419,
+    "username": "linda8920",
+    "display_name": "LinDan",
+    "content": "Python is a versatile, high-level programming language known for its readability and simplicity. It supports multiple programming paradigms and is widely used in web development, data analysis, AI, and automation.",
+    "created_at": "2025-07-16T05:15:51+00:00",
+    "retweet_count": 0,
+    "like_count": 0,
+    "reply_count": 0,
+    "quote_count": 0,
+    "lang": "en",
+    "url": "https://x.com/linda8920/status/1945351652506288419",
+    "media": [
+      null
+    ],
+    "hashtags": [],
+    "mentions": []
+  },
+  {
+    "id": 1945350941685031128,
+    "username": "abdelha48003738",
+    "display_name": "abdelhamid",
+    "content": "To start programming in Python, install Python from https://t.co/HkGMADc7GX, use an IDE like PyCharm or VSCode, and practice with tutorials. Explore resources like Codecademy or freeCodeCamp for guided learning.",
+    "created_at": "2025-07-16T05:13:02+00:00",
+    "retweet_count": 0,
+    "like_count": 0,
+    "reply_count": 0,
+    "quote_count": 0,
+    "lang": "en",
+    "url": "https://x.com/abdelha48003738/status/1945350941685031128",
+    "media": [
+      null
+    ],
+    "hashtags": [],
+    "mentions": []
+  },
+  {
+    "id": 1945348976296841719,
+    "username": "climente_alin",
+    "display_name": "Alin Climente",
+    "content": "My top LLM for python programming: ChatGPT, DeepSeek, Claude - these can do some complex stuff (as long as it's under 100 LOC). \nThe rest are okish.. - good for search engine like queries.\n\nI was impressed that DeepSeek can create even diagrams. https://t.co/4457JO22jH",
+    "created_at": "2025-07-16T05:05:13+00:00",
+    "retweet_count": 0,
+    "like_count": 0,
+    "reply_count": 0,
+    "quote_count": 0,
+    "lang": "en",
+    "url": "https://x.com/climente_alin/status/1945348976296841719",
+    "media": [
+      null
+    ],
+    "hashtags": [],
+    "mentions": []
+  },
+  {
+    "id": 1945341367871529345,
+    "username": "buitrieu72",
+    "display_name": "Trieu Sky",
+    "content": "Start by learning basic programming languages like Python or JavaScript. Explore online courses, tutorials, and forums. Practice coding, and gradually dive into algorithms, data structures, and cybersecurity fundamentals.",
+    "created_at": "2025-07-16T04:34:59+00:00",
+    "retweet_count": 0,
+    "like_count": 0,
+    "reply_count": 0,
+    "quote_count": 0,
+    "lang": "en",
+    "url": "https://x.com/buitrieu72/status/1945341367871529345",
+    "media": [
+      null
+    ],
+    "hashtags": [],
+    "mentions": []
+  },
+  {
+    "id": 1945341091060089107,
+    "username": "ngocngan79",
+    "display_name": "N ~ Ngoc Ngan",
+    "content": "Start with basic programming languages like Python. Learn about algorithms and data structures. Explore online courses and resources. Experiment with projects to apply your skills and gain hands-on experience.",
+    "created_at": "2025-07-16T04:33:53+00:00",
+    "retweet_count": 0,
+    "like_count": 0,
+    "reply_count": 0,
+    "quote_count": 0,
+    "lang": "en",
+    "url": "https://x.com/ngocngan79/status/1945341091060089107",
+    "media": [
+      null
+    ],
+    "hashtags": [],
+    "mentions": []
+  },
+  {
+    "id": 1945340669389914478,
+    "username": "matrungkim111",
+    "display_name": "Ma Hy Kim",
+    "content": "Start with the basics of programming, particularly Python. Then, explore machine learning concepts through online courses, tutorials, and practice with projects and datasets to build your skills gradually.",
+    "created_at": "2025-07-16T04:32:12+00:00",
+    "retweet_count": 0,
+    "like_count": 0,
+    "reply_count": 0,
+    "quote_count": 0,
+    "lang": "en",
+    "url": "https://x.com/matrungkim111/status/1945340669389914478",
+    "media": [
+      null
+    ],
+    "hashtags": [],
+    "mentions": []
+  },
+  {
+    "id": 1945339784844730410,
+    "username": "ngohoai171819",
+    "display_name": "Ngodinhhoai",
+    "content": "To start programming in Python, begin with online tutorials like Codecademy or freeCodeCamp. Practice basic concepts, then move on to projects. Utilize resources like Python documentation and join coding communities for support.",
+    "created_at": "2025-07-16T04:28:42+00:00",
+    "retweet_count": 0,
+    "like_count": 0,
+    "reply_count": 0,
+    "quote_count": 0,
+    "lang": "en",
+    "url": "https://x.com/ngohoai171819/status/1945339784844730410",
+    "media": [
+      null
+    ],
+    "hashtags": [],
+    "mentions": []
+  },
+  {
+    "id": 1945337184535580982,
+    "username": "Enzorodrii",
+    "display_name": "Enzo Rodriiguez",
+    "content": "Once, in a digital forest, two programming languages, Python and JavaScript, became friends. They built a bridge connecting web and data science, helping developers share ideas, solve problems, and create magic together.",
+    "created_at": "2025-07-16T04:18:22+00:00",
+    "retweet_count": 0,
+    "like_count": 0,
+    "reply_count": 0,
+    "quote_count": 0,
+    "lang": "en",
+    "url": "https://x.com/Enzorodrii/status/1945337184535580982",
+    "media": [
+      null
+    ],
+    "hashtags": [],
+    "mentions": []
+  }
+]

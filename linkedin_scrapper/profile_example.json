@@ -1,0 +1,141 @@
+{
+  "summary": "Chair of the Gates Foundation. Founder of Breakthrough Energy. Co-founder of Microsoft. Voracious reader. Avid traveler. Active blogger.",
+  "industryName": "Philanthropy",
+  "lastName": "Gates",
+  "locationName": "United States",
+  "student": false,
+  "geoCountryName": "United States",
+  "geoCountryUrn": "urn:li:fs_geo:103644278",
+  "geoLocationBackfilled": false,
+  "elt": true,
+  "industryUrn": "urn:li:fs_industry:131",
+  "firstName": "Bill",
+  "entityUrn": "urn:li:fs_profile:ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc",
+  "geoLocation": {
+    "geoUrn": "urn:li:fs_geo:104116203"
+  },
+  "geoLocationName": "Seattle, Washington",
+  "location": {
+    "basicLocation": {
+      "countryCode": "us"
+    }
+  },
+  "headline": "Chair, Gates Foundation and Founder, Breakthrough Energy",
+  "displayPictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQF-RYZP55jmXA/profile-displayphoto-shrink_",
+  "img_200_200": "200_200/B56ZRi8g.aGsAY-/0/1736826818802?e=1758153600&v=beta&t=9d2QPBG02QfMcBTUj48YW_2c3eL-x1NTi0UHxG-KrQU",
+  "img_400_400": "400_400/B56ZRi8g.aGsAg-/0/1736826818802?e=1758153600&v=beta&t=Xi0caOEOmn8Rx26CpYdut1jaWu9WwdH_QXAwZDM_P9E",
+  "img_100_100": "100_100/B56ZRi8g.aGsAU-/0/1736826818802?e=1758153600&v=beta&t=FccdxaIm3WtMPQmQF0Tot7aCLXfIsJZ16PhkGGDSWzQ",
+  "img_800_800": "800_800/B56ZRi8g.aGsAc-/0/1736826818808?e=1758153600&v=beta&t=mmZ6JJETZGrIE-g8h5XzfmYiWpzsTGzpXjF8qdUkbr0",
+  "profile_id": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc",
+  "profile_urn": "urn:li:fs_miniProfile:ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc",
+  "member_urn": "urn:li:member:251749025",
+  "public_id": "williamhgates",
+  "experience": [
+    {
+      "entityUrn": "urn:li:fs_position:(ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc,392598211)",
+      "companyName": "Gates Foundation",
+      "timePeriod": {
+        "startDate": {
+          "year": 2000
+        }
+      },
+      "company": {
+        "employeeCountRange": {
+          "start": 1001,
+          "end": 5000
+        },
+        "industries": [
+          "Nonprofit Organization Management"
+        ]
+      },
+      "title": "Co-chair",
+      "companyUrn": "urn:li:fs_miniCompany:8736",
+      "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQEgMqqFTd40Tg/company-logo_"
+    },
+    {
+      "entityUrn": "urn:li:fs_position:(ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc,1836104012)",
+      "companyName": "Breakthrough Energy ",
+      "timePeriod": {
+        "startDate": {
+          "year": 2015
+        }
+      },
+      "company": {
+        "employeeCountRange": {
+          "start": 51,
+          "end": 200
+        },
+        "industries": [
+          "Management Consulting"
+        ]
+      },
+      "title": "Founder",
+      "companyUrn": "urn:li:fs_miniCompany:19141006",
+      "companyLogoUrl": "https://media.licdn.com/dms/image/v2/C4D0BAQGwD9vNu044FA/company-logo_"
+    },
+    {
+      "entityUrn": "urn:li:fs_position:(ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc,392599749)",
+      "companyName": "Microsoft",
+      "timePeriod": {
+        "startDate": {
+          "year": 1975
+        }
+      },
+      "company": {
+        "employeeCountRange": {
+          "start": 10001
+        },
+        "industries": [
+          "Computer Software"
+        ]
+      },
+      "title": "Co-founder",
+      "companyUrn": "urn:li:fs_miniCompany:1035",
+      "companyLogoUrl": "https://media.licdn.com/dms/image/v2/D560BAQH32RJQCl3dDQ/company-logo_"
+    }
+  ],
+  "education": [
+    {
+      "entityUrn": "urn:li:fs_education:(ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc,157656829)",
+      "school": {
+        "objectUrn": "urn:li:school:18483",
+        "entityUrn": "urn:li:fs_miniSchool:18483",
+        "active": true,
+        "schoolName": "Harvard University",
+        "trackingId": "IcCj3UkNS86F0v22XCx6Rg==",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/C4E0BAQF5t62bcL0e9g/company-logo_"
+      },
+      "timePeriod": {
+        "endDate": {
+          "year": 1975
+        },
+        "startDate": {
+          "year": 1973
+        }
+      },
+      "schoolName": "Harvard University",
+      "schoolUrn": "urn:li:fs_miniSchool:18483"
+    },
+    {
+      "entityUrn": "urn:li:fs_education:(ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc,157676006)",
+      "school": {
+        "objectUrn": "urn:li:school:3164077",
+        "entityUrn": "urn:li:fs_miniSchool:3164077",
+        "active": true,
+        "schoolName": "Lakeside School",
+        "trackingId": "YStltVc0SXqn579u3rfCIg==",
+        "logoUrl": "https://media.licdn.com/dms/image/v2/D560BAQGFmOQmzpxg9A/company-logo_"
+      },
+      "schoolName": "Lakeside School",
+      "schoolUrn": "urn:li:fs_miniSchool:3164077"
+    }
+  ],
+  "languages": [],
+  "publications": [],
+  "certifications": [],
+  "volunteer": [],
+  "honors": [],
+  "projects": [],
+  "skills": [],
+  "urn_id": "ACoAAA8BYqEBCGLg_vT_ca6mMEqkpp9nVffJ3hc"
+}
